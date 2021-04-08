@@ -1,0 +1,3 @@
+[submodule "quickstart/roxo-hugo"]
+	path = quickstart/roxo-hugo
+	url = git@github.com:StaticMania/roxo-hugo.git
