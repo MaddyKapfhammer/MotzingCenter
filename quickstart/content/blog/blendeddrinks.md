@@ -15,9 +15,6 @@ Description here
 **Salted Caramel**
 Description here
 
-**Banana Cream**
-Description here
-
 **Pineapple Sorbet**
 Description here
 
@@ -33,18 +30,12 @@ Description here
 **Vanilla Bean**
 Description here
 
-**Cocconut Cream**
+**Chocolate Mint Chip**
 Description here
 
 # Smoothies
 
-**Banana**
-Description here
-
 **Four Berry**
-Description here
-
-**Lemonade**
 Description here
 
 **Mango**
@@ -53,8 +44,11 @@ Description here
 **Strawberry**
 Description here
 
-**Peach, Pear Apricot**
+**Peach, Pear, Apricot**
 Description here
 
 **Strawberry Banana**
+Description here
+
+**Pineapple**
 Description here
