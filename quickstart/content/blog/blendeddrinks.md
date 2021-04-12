@@ -4,7 +4,6 @@ date: 2019-12-23T15:56:43+06:00
 type: portfolio
 image: "images/projects/project-thumb-two.jpg"
 category: ["PRODUCT DESIGN"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
 # Frappuccinos - 16 oz. $3.50
@@ -33,7 +32,7 @@ Description here
 **Chocolate Mint Chip**
 Description here
 
-# Smoothies
+# Smoothies - 16 oz. $3.50
 
 **Four Berry**
 Description here
@@ -52,3 +51,6 @@ Description here
 
 **Pineapple**
 Description here
+
+# Milkshakes - $4.00 | $4.50 | $5.00
+Your choice of ice cream flavor
