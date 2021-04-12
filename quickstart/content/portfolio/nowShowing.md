@@ -1,0 +1,9 @@
+---
+title: "NOW SHOWING"
+date: 2019-12-23T15:55:44+06:00
+type: portfolio
+image: "images/projects/project-thumb-three.jpg"
+category: ["Iris Theatre"]
+---
+
+# We are not currently showing movies at this time, check back to see when the theatre will reopen!
