@@ -69,10 +69,10 @@ summarylength = 25
     background_image      = "images/backgrounds/syrups.jpg"
     heading               = "home of kofvino the coffee lounge and the iris theatre"
     tagline               = "The Motzing Center"
-    primary_button        = "See Our Works"
-    primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Us"
-    secondary_button_url  = "contact"
+    primary_button        = "Kovfino the Coffee Lounge"
+    primary_button_url    = "blog"
+    secondary_button      = "The Iris Theatre"
+    secondary_button_url  = "portfolio"
 
   [params.footer]
     # Footer Contact Info
