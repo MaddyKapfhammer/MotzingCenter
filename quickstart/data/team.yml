@@ -1,44 +1,90 @@
 enable  : true
-title   : Team that makes the difference.
+title   : The volunteers make the difference
 members  :
-  - image       : images/team/team-member-one.jpg
-    name        : PABLO ESCOBAR
-    designation : Creative Director
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - image       : images/team/blank_profile.png
+    name        : JESSICA KAPFHAMMER
+    designation : Bio here
 
-  - image       : images/team/team-member-two.jpg
-    name        : MONTINO RIAU
-    designation : Product Manager
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - image       : images/team/blank_profile.png
+    name        : MADELYN KAPFHAMMER
+    designation : Bio here
 
-  - image       : images/team/team-member-three.jpg
-    name        : ALEX NAASRI
-    designation : Chief Design Officer
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - image       : images/team/blank_profile.png
+    name        : DEANA CLULOW
+    designation : Bio here
 
-  - image       : images/team/team-member-four.jpg
-    name        : HONGMAN CHIOA
-    designation : UX Researcher
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - image       : images/team/blank_profile.png
+    name        : STEVE CLULOW
+    designation : Bio here
 
-  - image       : images/team/team-member-five.jpg
-    name        : SANTIO ANDRESS
-    designation : Content Researcher
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - image       : images/team/blank_profile.png
+    name        : STEVE GREER
+    designation : Bio here
 
-  - image       : images/team/team-member-six.jpg
-    name        : RAMESH PAUL
-    designation : Creative Designer
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - image       : images/team/blank_profile.png
+    name        : CHARLOTTE HOLLABAUGH
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : KARA SMITH
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : NATE SMITH
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : LANDON SMITH
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : KIM FOULK
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : JENNIFER DINGELDINE
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : PATRICE SCHWARTZ
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : SUE NAGEOTTE
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : SANDY STAUDT
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : JILL BATTIN
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : KAREN HAINES
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : MELANIE MCKAY
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : SARA MILLER
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : BELLA HOCHSTETLER
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : ALITA HOCHSTETLER
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : SUE WOLFE
+    designation : Bio here
+
+  - image       : images/team/blank_profile.png
+    name        : MADISON HEIM
+    designation : Bio here
