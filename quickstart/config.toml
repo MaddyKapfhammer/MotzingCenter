@@ -76,8 +76,8 @@ summarylength = 25
 
   [params.merchandise]
     enable    = true
-    title     = "OUR RECENT WORKS"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    title     = "CHECK OUT OUR MERCHANDISE"
+    subtitle  = "We sell more than just coffee"
   
   [params.footer]
     # Footer Contact Info
