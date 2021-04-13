@@ -2,7 +2,7 @@
 title: "UPCOMING MOVIES"
 date: 2019-12-23T15:44:46+06:00
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/testimonial/testimony.png"
 category: ["Iris Theatre"]
 ---
 

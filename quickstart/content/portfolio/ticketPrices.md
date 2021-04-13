@@ -2,7 +2,7 @@
 title: "TICKETS"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/testimonial/testimony.png"
 category: ["Iris Theatre"]
 ---
 
