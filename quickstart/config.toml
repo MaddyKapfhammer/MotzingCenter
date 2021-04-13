@@ -67,8 +67,8 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/blbackground.jpg"
-    heading               = "home of kofvino the coffee lounge and the iris theatre"
-    tagline               = "The Motzing Center"
+    heading               = "The Motzing Center"
+    tagline               = ""
     primary_button        = "Kovfino the Coffee Lounge"
     primary_button_url    = "blog"
     secondary_button      = "The Iris Theatre"
