@@ -2,7 +2,9 @@ enable : true
 heading : "HOURS"
 counter_item: 
 
-  - title: "Monday thru Thursday: 7:00am-11:00am & 4:00am-7:00pm"
+  - title: "Monday thru Thursday: 7:00am-11:00am & 4:00pm-7:00pm"
 
   - title: "Saturday: 8:00am-3:00pm"
+
+  - title: "Dining area closes 30 minutes prior to carryout"
     

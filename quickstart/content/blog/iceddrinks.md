@@ -1,6 +1,6 @@
 ---
 title: "ICED BEVERAGES"
-date: 2019-12-23T15:44:46+06:00
+date: 2016-11-19T15:56:43+06:00
 type: portfolio
 image: "images/testimonial/testimony.png"
 category: ["Kovfino the Coffee Lounge"]
@@ -29,3 +29,17 @@ Unsweeted almond, Sweeted coconut, or soy
 
 **Extras - Add $0.50**
 Espresso shot, whipped cream, flavor shots
+
+# Flavor Shots
+
+**Fruity**
+
+Apple | Blackberry | Blueberry | Candied Orange | Cherry | Peach | Raspberry | Strawberry |
+
+**Classic**
+
+Almond | Amaretto | Cinnamon | Coconut | French Vanilla | Gingerbread | Hazelnut | Honey | Irish Cream | Lavendar | Peanut Butter | Peppermint | Pure Cane | Salted Caramel | Toasted Marshmallow | Toffee Nut |
+
+**Sugar Free**
+
+SF Blackberry | SF Caramel | SF Hazelnut | SF Raspberry | SF Vanilla |

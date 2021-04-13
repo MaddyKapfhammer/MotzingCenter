@@ -1,56 +1,67 @@
 ---
 title: "BLENDED DRINKS"
-date: 2019-12-23T15:56:43+06:00
+date: 2016-11-19T15:56:43+06:00
 type: portfolio
 image: "images/testimonial/testimony.png"
-category: ["PRODUCT DESIGN"]
+category: ["Kovfino the Coffee Lounge"]
 ---
 
 # Frappuccinos - 16 oz. $3.50
 
 **Cookies & Cream**
-Description here
+A classic pairing chocolate cookies and sweet cream
 
 **Salted Caramel**
-Description here
-
-**Pineapple Sorbet**
-Description here
+A rich caramel with subtle hints of salt for a perfect pairing | _contains coffee base_
 
 **Orange Cream**
-Description here
+The classic American summertime treat brought to you in a whole new way
 
 **Java Chip**
-Description here
+Sweet bits of chocolate paired with Columbian arabicia coffee | _contains coffee base_
 
 **Vanilla**
-Description here
+A decadent blend of coffee and creamy vanilla | _contains coffee base_
 
 **Vanilla Bean**
-Description here
+Velvety vanilla and sweet cream with flecks of Madagascar bourbon vanilla beans
 
 **Chocolate Mint Chip**
-Description here
+Decadent, semi-sweet, chocolate chips plus cool peppermint set in a chocolatey base
 
 # Smoothies - 16 oz. $3.50
 
 **Four Berry**
-Description here
+A bramble of berries mingle in this anti-oxidant powerhouse
 
 **Mango**
-Description here
+Sweet mango brightened with pineapple and banana
 
 **Strawberry**
-Description here
+Juicy straberries just perfect all on their own
 
 **Peach, Pear, Apricot**
-Description here
+Sweet peaches & tart apricots, plus pear too
 
 **Strawberry Banana**
-Description here
+A class pairing: juicy strawberries with creamy banana
 
 **Pineapple**
-Description here
+Tropical breezes are on tap with pineapple, banana, and a hint of coconut flavor
 
 # Milkshakes - $4.00 | $4.50 | $5.00
 Your choice of ice cream flavor
+
+# Flavor Shots
+
+**Fruity** 
+
+Apple | Blackberry | Blueberry | Candied Orange | Cherry | Peach | Raspberry | Strawberry |
+
+**Classic**
+
+Almond | Amaretto | Cinnamon | Coconut | French Vanilla | Gingerbread | Hazelnut | Honey | Irish Cream | Lavendar | Peanut Butter | Peppermint | Pure Cane | Salted Caramel | Toasted Marshmallow | Toffee Nut |
+
+**Sugar Free**
+
+SF Blackberry | SF Caramel | SF Hazelnut | SF Raspberry | SF Vanilla |

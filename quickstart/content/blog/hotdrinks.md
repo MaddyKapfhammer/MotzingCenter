@@ -1,27 +1,34 @@
 ---
 title: "HOT BEVERAGES"
-date: 2019-12-23T20:56:42+06:00
+date: 2016-11-19T15:56:43+06:00
 type: portfolio
 image: "images/testimonial/testimony.png"
-category: ["PRODUCT LABEL"]
+category: ["Kovfino the Coffee Lounge"]
 ---
-
-**House Coffee - $1.75 | $2.00 | $2.25**
 
 **Americano - $1.75 | $2.00 | $2.25**
 Espresso and water
+
+**Brewed Coffee - $1.75 | $2.00 | $2.25**
+House and dark are always available, assorted flavors offered daily
 
 **Caramel Macchiato - $2.75 | $3.25 | $3.75**
 French vanilla syrup, espresso, and steamed milk with caramel drizzle
 
 **Chai Tea Latte - $2.75 | $3.25 | $3.75**
-Chai tea with steamed milk
+Chai tea concentrate combined with steamed milk
 
 **Hot Chocolate - $2.75 | $3.25 | $3.75**
-Chocolate and steamed milk with whipped cream
+Chocolate sauce and steamed milk with whipped cream
+
+**Hot Tea - $1.75 | $2.00 | $2.25**
+Assam Breakfast, Berry Basket, Cinnamon Rooibos, Earl Grey, Juicy Plum, Lemon Mint Ginger, Peppermint, 
 
 **Latte - $2.75 | $3.25 | $3.75**
 Flavor shot, espresso and steamed milk
+
+**London Fog - $2.75 | $3.25 | $3.75**
+Your choice of tea and steamed milk
 
 **Mocha - $2.75 | $3.25 | $3.75**
 Your choice of chocolate sauce, espresso and steamed milk
@@ -29,8 +36,16 @@ Your choice of chocolate sauce, espresso and steamed milk
 **Red Eye - $2.25 | $3.25 | $3.75**
 Espresso and coffee
 
-**London Fog - $2.75 | $3.25 | $3.75**
-Your choice of tea and steamed milk
+# Flavor Shots
 
-**Hot Tea - $1.75 | $2.00 | $2.25**
-Apple Cinnamon, Assam Breakfast, Berry Basket, Cinnamon Rooibos, Earl Grey, Juicy Plum, Lemon Mint Ginger, Peppermint
+**Fruity**
+
+Apple | Blackberry | Blueberry | Candied Orange | Cherry | Peach | Raspberry | Strawberry |
+
+**Classic**
+
+Almond | Amaretto | Cinnamon | Coconut | French Vanilla | Gingerbread | Hazelnut | Honey | Irish Cream | Lavendar | Peanut Butter | Peppermint | Pure Cane | Salted Caramel | Toasted Marshmallow | Toffee Nut |
+
+**Sugar Free**
+
+SF Blackberry | SF Caramel | SF Hazelnut | SF Raspberry | SF Vanilla |
