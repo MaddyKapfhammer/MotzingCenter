@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enjoy watching the latest movies in a family friendly atmosphere on The Motzing Center</title>
+    <link>http://example.org/portfolio/</link>
+    <description>Recent content in Enjoy watching the latest movies in a family friendly atmosphere on The Motzing Center</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate>
+    
+	<atom:link href="http://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IRIS THEATRE RENTALS</title>
+      <link>http://example.org/portfolio/groupsandrentals/</link>
+      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/groupsandrentals/</guid>
+      <description>Iris Theatre Rental Policy and Rates The Iris Theatre provides the opportunity for groups to rent the theatre for various different events. Upon approval from the Motzing Center Committee, groups are able to use the theatre space, show films along with other events upon request.</description>
+    </item>
+    
+    <item>
+      <title>TICKETS</title>
+      <link>http://example.org/portfolio/ticketprices/</link>
+      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/ticketprices/</guid>
+      <description>Children - $3.00 12 years old and under
+Adults - $5.00 13 years old and over
+The Iris Theatre strives to offer family friendly entertainment that is suitable for all ages.</description>
+    </item>
+    
+    <item>
+      <title>NOW SHOWING</title>
+      <link>http://example.org/portfolio/nowshowing/</link>
+      <pubDate>Mon, 23 Dec 2019 15:55:44 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/nowshowing/</guid>
+      <description>We are not currently showing movies at this time, check back to see when the theatre will reopen! </description>
+    </item>
+    
+    <item>
+      <title>UPCOMING MOVIES</title>
+      <link>http://example.org/portfolio/upcomingmovies/</link>
+      <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/upcomingmovies/</guid>
+      <description>We are not currently showing movies at this time, check back to see when the theatre will reopen! </description>
+    </item>
+    
+  </channel>
+</rss>
