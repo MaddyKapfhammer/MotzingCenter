@@ -6,7 +6,7 @@ image: "images/testimonial/testimony.png"
 category: ["PRODUCT LABEL"]
 ---
 
-**House Coffee - $1.75 | $2.00 | %2.25**
+**House Coffee - $1.75 | $2.00 | $2.25**
 
 **Americano - $1.75 | $2.00 | $2.25**
 Espresso and water
