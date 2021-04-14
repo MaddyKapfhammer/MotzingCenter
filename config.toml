@@ -1,7 +1,7 @@
 baseURL       = "http://example.org/"
 languageCode  = "en-us"
 title         = "The Motzing Center"
-theme         = "roxo-hugo"
+theme         = "roxo"
 summarylength = 25
 
 # Site Menus
