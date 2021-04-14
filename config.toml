@@ -1,4 +1,4 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://6076539a73c2d40007f62f07--silly-blackwell-8ad8b3.netlify.app/"
 languageCode  = "en-us"
 title         = "The Motzing Center"
 theme         = "roxo"
