@@ -1,4 +1,4 @@
-baseURL       = "https:motzingcenter.netlify.app"
+baseURL       = "www.motzingcenter.com"
 languageCode  = "en-us"
 title         = "The Motzing Center"
 theme         = "roxo"
