@@ -1,4 +1,4 @@
-baseURL       = "www.motzingcenter.com"
+baseURL       = "https://www.motzingcenter.com/"
 languageCode  = "en-us"
 title         = "The Motzing Center"
 theme         = "roxo"
