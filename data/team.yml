@@ -8,12 +8,11 @@ members  :
 
   - image       : images/team/blank_profile.png
     name        : DEANA CLULOW
-    designation : Volunteeer for 5 years 
-                  Favorite Drink - bubble tea
+    designation : 5 years | Bubble Tea
 
   - image       : images/team/blank_profile.png
     name        : STEVE CLULOW
-    designation : Volunteer
+    designation : 5 years | Orange/Pineapple Frapp
 
   - image       : images/team/blank_profile.png
     name        : JENNIFER DINGELDINE
@@ -21,11 +20,11 @@ members  :
 
   - image       : images/team/blank_profile.png
     name        : KIM FOULK
-    designation : Volunteer
+    designation : 6 months | Iced Caramel Latte
 
   - image       : images/team/blank_profile.png
     name        : STEVE GREER
-    designation : Volunteer
+    designation : 1 year | Dark Roast
 
   - image       : images/team/blank_profile.png
     name        : KAREN HAINES
@@ -37,43 +36,43 @@ members  :
 
   - image       : images/team/blank_profile.png
     name        : BELLA HOCHSTETLER
-    designation : Volunteer
+    designation : 5 years | Latte
 
   - image       : images/team/blank_profile.png
     name        : ALITA HOCHSTETLER
-    designation : Volunteer
+    designation : 5 years | Creme Brulee Latte 
 
   - image       : images/team/blank_profile.png
     name        : CHARLOTTE HOLLABAUGH
-    designation : Volunteer
+    designation : 5 years | Iced Chai Tea Latte
 
   - image       : images/team/blank_profile.png
     name        : JESSICA KAPFHAMMER
-    designation : Volunteer
+    designation : 5 years | Iced Peppermint Tuxedo Mocha
 
   - image       : images/team/blank_profile.png
     name        : MADELYN KAPFHAMMER
-    designation : Volunteer
+    designation : 3 years | Iced Chai Tea Latte
 
   - image       : images/team/blank_profile.png
     name        : MELANIE MCKAY
-    designation : Volunteer
+    designation : 5 years | Caramel Espresso Ice Shake
 
   - image       : images/team/blank_profile.png
     name        : SARA MILLER
-    designation : Volunteer
+    designation : 5 years | Lemon Frapp
 
   - image       : images/team/blank_profile.png
     name        : SUE NAGEOTTE
-    designation : Volunteer
+    designation : 4 years | Hazelnut Latte
 
   - image       : images/team/blank_profile.png
     name        : PATRICE SCHWARTZ
-    designation : Volunteer
+    designation : 3 years | White Chocolate Mocha with Toffee Nut
 
   - image       : images/team/blank_profile.png
     name        : KARA SMITH
-    designation : Volunteer
+    designation : 5 years | Be Mine Mocha
 
   - image       : images/team/blank_profile.png
     name        : LANDON SMITH
@@ -81,7 +80,7 @@ members  :
 
   - image       : images/team/blank_profile.png
     name        : NATE SMITH
-    designation : Volunteer
+    designation : 5 years | French Vanilla Creamer with a Splash of Coffee
 
   - image       : images/team/blank_profile.png
     name        : SANDY STAUDT
@@ -89,4 +88,4 @@ members  :
 
   - image       : images/team/blank_profile.png
     name        : SUE WOLFE
-    designation : Volunteer
+    designation : 5 years | Banana Nut or Blueberry Coffee
