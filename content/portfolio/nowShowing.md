@@ -6,7 +6,6 @@ image: "images/testimonial/testimony.png"
 category: ["Iris Theatre"]
 ---
 
-# Raya and the Last Dragon
+## Raya and the Last Dragon
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/1VIZ89FEjYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Raya and the Last Dragon](img.youtube.com/vi/1VIZ89FEjYI/0.jpg)](https://www.youtube.com/watch?v=1VIZ89FEjYI)
