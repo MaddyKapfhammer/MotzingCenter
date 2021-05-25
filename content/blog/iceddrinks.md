@@ -2,7 +2,7 @@
 title: "ICED BEVERAGES"
 date: 2016-11-19T15:56:43+06:00
 type: portfolio
-image: "images/testimonial/testimony.png"
+image: "images/BubbleTea.jpg"
 category: ["Kovfino the Coffee Lounge"]
 ---
 
