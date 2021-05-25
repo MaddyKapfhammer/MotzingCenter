@@ -6,4 +6,7 @@ image: "images/testimonial/testimony.png"
 category: ["Iris Theatre"]
 ---
 
-# We are not currently showing movies at this time, check back to see when the theatre will reopen!
+# Raya and the Last Dragon
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1VIZ89FEjYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
