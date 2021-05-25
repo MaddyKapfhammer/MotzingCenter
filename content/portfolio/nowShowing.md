@@ -8,5 +8,5 @@ category: ["Iris Theatre"]
 
 # Raya and the Last Dragon
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1VIZ89FEjYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/1VIZ89FEjYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
