@@ -6,20 +6,20 @@ image: "images/testimonial/testimony.png"
 category: ["Iris Theatre"]
 ---
 
-## Godzilla vs. Kong
+## Finding You
 
-Kong and his protectors undertake a perilous journey to find his true home. Along for the ride is Jia, an orphaned girl who has a unique and powerful bond with the mighty beast. However, the soon find themselves in the path of an enraged Godzilla as he cuts a swath of destruction across the globe. The initial confrontation between the two titans--instigated by unseen forces--is only the beginning of the mystery that lies deep within the core of the planet.
-
-_Rated: PG-13_
-
-Friday, June 11 & Saturday, June 12 @ 6:30pm
-
-Friday, June 18 & Saturday, June 19 @ 6:30pm
-
-## The Girl Who Believes in Miracles
-
-When young Sara hears a preacher say faith can move mountains, she starts praying. Suddenly, people in her town are mysteriously healed--but fame soon takes its toll.
+Violinist Finley Sinclair travles to an Irish coastal village to begin her semester studying abroad. At the bed-and-breakfast run by her host family, she encounters Beckett Rush, a handsome actor who's filming another installment of his medieval movie franchise. As romance sparks between the unlikely pair, Beckett ignites a journey of discovery for Finley--transforming her heart, her music and her outlook on life.
 
 _Rated: PG_
 
-Friday, June 25 & Saturday, June 26 @ 6:30pm
+## Cruella
+
+Estella is a young and clever grifter who's deterined to make a name for herself in the fashion world. She soon meets a pair of thieves who appreciate her appetite for mischief, and together they build a life for themselves on the streets of London. However, when Estella befriends fashion legend Baroness von Hellman, she embraces her wicked side and becomes the raucous and revenge-bent Cruella.
+
+_Rated: PG-13_
+
+## Spirit - Untamed
+
+After moving to a sleepy little town, young Lucky Prescott befriends a wild mustang named Spirit, who shares her rebellious spirit. When a heartless wrangler plans to capture Spirit and his herd, Lucky and her new friends embark on the adventure of a lifetime to rescue the horse that forever changed her life.
+
+_Rated: PG_
