@@ -6,7 +6,6 @@ image: "images/testimonial/testimony.png"
 category: ["Iris Theatre"]
 ---
 
-![Upcoming Movies](/static/images/JulyMovies.png)
 
 ## Cruella
 
