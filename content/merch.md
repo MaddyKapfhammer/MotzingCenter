@@ -6,6 +6,8 @@ image: "images/testimonial/testimony.png"
 category: ["PRODUCT LABEL"]
 ---
 
+![Merchandise](/static/images/merchandise.png)
+
 **Short Sleeve Shirts**
 
 Small..............................................$13.00
