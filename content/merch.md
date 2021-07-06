@@ -6,7 +6,7 @@ image: "images/testimonial/testimony.png"
 category: ["PRODUCT LABEL"]
 ---
 
-![Merchandise](/static/images/merchandise.png)
+[![Merchandise](/static/images/merchandise.png)]
 
 **Short Sleeve Shirts**
 
