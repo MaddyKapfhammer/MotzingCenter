@@ -2,8 +2,7 @@
 title: "HOT BEVERAGES"
 date: 2016-11-19T15:56:43+06:00
 type: portfolio
-image: "images/hotLatte
--25.jpg"
+image: "images/hotLatte_25.jpg"
 category: ["Kovfino the Coffee Lounge"]
 ---
 
