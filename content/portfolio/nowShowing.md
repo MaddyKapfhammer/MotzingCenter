@@ -12,7 +12,7 @@ category: ["Iris Theatre"]
 
 ### Hoping to get closer as a family, Gomez, Morticia and the rest of the Addams clan embark on an adventerous road trip in a hideous and humongous camper.
 
-_Rated: PG-13_
+_Rated: PG_
 
 **Friday, October 1, 2021 @ 6:30**
 
