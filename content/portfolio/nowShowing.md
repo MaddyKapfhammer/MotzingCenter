@@ -14,6 +14,6 @@ category: ["Iris Theatre"]
 
 _Rated: PG_
 
-**Friday, October 1, 2021 @ 6:30**
+**Friday, October 8, 2021 @ 6:30**
 
-**Saturday, October 2, 2021 @ 6:30**
+**Saturday, October 9, 2021 @ 6:30**
