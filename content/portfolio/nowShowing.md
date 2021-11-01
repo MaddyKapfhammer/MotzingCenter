@@ -6,11 +6,11 @@ image: "images/testimonial/testimony.png"
 category: ["Iris Theatre"]
 ---
 
-## Ron's Gone Wrong
+## Paw Patrol: The Movie 
 
-[![Ron's Gone Wrong](https://img.youtube.com/vi/8I8nMtzN05s/0.jpg)](https://www.youtube.com/watch?v=8I8nMtzN05s)
+[![Paw Patrol: The Movie](https://img.youtube.com/vi/LRMTr2VZcr8s/0.jpg)](https://www.youtube.com/watch?v=LRMTr2VZcr8)
 
-### Barney is a socially awkward schoolboy who receives a robot named Ron -- a walking, talking, digitally connected device that's supposed to be his best friend. Barney is excited to finally have his own robot -- until his new toy starts to hilariously malfunction, drawing the attention of a shady executive who wants to protect his company's stock price at all costs.
+### When their biggest rival, Humdinger starts wreaking havoc as the mayor of Adventure City, Ryder and everyone's favorite heroic pups kick into high gear to face the challenge. Armed with exciting new gadgets and gear, the PAW Patrol joins forces with a savvy dachshund to save the citizens of Adventure City.
 
 _Rated: PG_
 
