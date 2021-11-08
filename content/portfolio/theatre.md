@@ -8,21 +8,21 @@ category: ["Iris Theatre"]
 
 # Now Showing 
 
-## Paw Patrol: The Movie 
+## The Jesus Music
 
-[![Paw Patrol: The Movie](https://img.youtube.com/vi/LRMTr2VZcr8/0.jpg)](https://www.youtube.com/watch?v=LRMTr2VZcr8)
+[![The Jesus Music](https://img.youtube.com/vi/Ht0amareeDI/0.jpg)](https://www.youtube.com/watch?v=Ht0amareeDI)
 
-### When their biggest rival, Humdinger starts wreaking havoc as the mayor of Adventure City, Ryder and everyone's favorite heroic pups kick into high gear to face the challenge. Armed with exciting new gadgets and gear, the PAW Patrol joins forces with a savvy dachshund to save the citizens of Adventure City.
+### With stirring songs of faith, love and hope, Jesus music rises from America's 1960s counterculture movement to become a worldwide phenomenon.
 
 _Rated: PG_
 
-**Friday, October 29, 2021 @ 6:30**
+**Friday, November 12, 2021 @ 6:30**
 
-**Saturday, October 30, 2021 @ 6:30**
+**Saturday, November 13, 2021 @ 6:30**
+
+**Friday, November 19, 2021 @ 6:30**
 
 # Upcoming Movies
-
-### November 12 & 13, November 19 - The Jesus Music
 
 ### No Movie Showing - November 26 & 27
 
