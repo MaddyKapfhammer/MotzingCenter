@@ -16,10 +16,6 @@ category: ["Iris Theatre"]
 
 _Rated: PG_
 
-**Friday, November 12, 2021 @ 6:30**
-
-**Saturday, November 13, 2021 @ 6:30**
-
 **Friday, November 19, 2021 @ 6:30**
 
 # Upcoming Movies
