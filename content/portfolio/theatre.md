@@ -8,22 +8,19 @@ category: ["Iris Theatre"]
 
 # Now Showing 
 
-## The Jesus Music
-
-[![The Jesus Music](https://img.youtube.com/vi/Ht0amareeDI/0.jpg)](https://www.youtube.com/watch?v=Ht0amareeDI)
-
-### With stirring songs of faith, love and hope, Jesus music rises from America's 1960s counterculture movement to become a worldwide phenomenon.
-
-_Rated: PG_
-
-**Friday, November 19, 2021 @ 6:30**
+## No Movie This Week - Happy Thanksgiving!!
 
 # Upcoming Movies
 
-### No Movie Showing - November 26 & 27
-
 ### December 3 & 4 - Clifford the Big Red Dog
 
+### December 10 & 11 - Ghostbusters: Afterlife
+
+### December 17 & 18 - Ghostbusters: Afterlife
+
+### December 24 & 24 - No Showing, Merry Christmas!!
+
+### January 31 & 1 - No Showing, Happy New Year!!
 
 # Ticket Prices
 
