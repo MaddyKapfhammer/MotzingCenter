@@ -8,11 +8,17 @@ category: ["Iris Theatre"]
 
 # Now Showing 
 
-## No Movie This Week - Happy Thanksgiving!!
+## Clifford the Big Red Dog
+
+**December 3 & 4**
+
+[![Clifford the Big Red Dog](https://img.youtube.com/vi/4zH5iYM4wJo/0.jpg)](https://www.youtube.com/watch?v=4zH5iYM4wJo)
+
+When Emily Elizabeth meets a magical animal rescuer who gives her a little red puppy, she never anticipated waking up to find a giant, 10-foot hound in her small New York City apartment. With her single mother away on business, Emily and her fun but impulsive uncle set out on an adventure that takes a bite out of the Big Apple.
+
+_Rated: PG_
 
 # Upcoming Movies
-
-### December 3 & 4 - Clifford the Big Red Dog
 
 ### December 10 & 11 - Ghostbusters: Afterlife
 
