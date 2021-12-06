@@ -10,23 +10,25 @@ category: ["Iris Theatre"]
 
 ## Clifford the Big Red Dog
 
-**December 3 & 4**
+**December 10 & 11**
 
-[![Clifford the Big Red Dog](https://img.youtube.com/vi/4zH5iYM4wJo/0.jpg)](https://www.youtube.com/watch?v=4zH5iYM4wJo)
+**December 17 & 18**
 
-When Emily Elizabeth meets a magical animal rescuer who gives her a little red puppy, she never anticipated waking up to find a giant, 10-foot hound in her small New York City apartment. With her single mother away on business, Emily and her fun but impulsive uncle set out on an adventure that takes a bite out of the Big Apple.
+[![Clifford the Big Red Dog](https://img.youtube.com/vi/ahZFCF--uRY/0.jpg)](https://www.youtube.com/watch?v=ahZFCF--uRY)
 
-_Rated: PG_
+When a single mother and her two children move to a new town, they soon discover they have a connection to the original Ghostbusters and the secret legacy their grandfather left behind.
+
+_Rated: PG-13_
 
 # Upcoming Movies
-
-### December 10 & 11 - Ghostbusters: Afterlife
-
-### December 17 & 18 - Ghostbusters: Afterlife
 
 ### December 24 & 24 - No Showing, Merry Christmas!!
 
 ### January 31 & 1 - No Showing, Happy New Year!!
+
+### January 7 & 8 - Encanto
+
+### January 14 & 15 - Encanto
 
 # Ticket Prices
 
