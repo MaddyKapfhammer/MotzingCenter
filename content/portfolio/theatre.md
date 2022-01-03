@@ -8,27 +8,35 @@ category: ["Iris Theatre"]
 
 # Now Showing 
 
-## Clifford the Big Red Dog
+## Encanto
 
-**December 10 & 11**
+The Madrigals are an extraordinary family who live hidden in the mountains of Colombia in a charmed place called the Encanto. The magic of the Encanto has blessed every child in the family with a unique gift -- every child except Mirabel. However, she soon may be the Madrigals last hope when she discovers that the magic surrounding the Encanto is now in danger.
 
-**December 17 & 18**
+_Rated: PG_
 
-[![Clifford the Big Red Dog](https://img.youtube.com/vi/ahZFCF--uRY/0.jpg)](https://www.youtube.com/watch?v=ahZFCF--uRY)
+### Friday, January 7 & Saturday, January 8 @ 6:30pm
 
-When a single mother and her two children move to a new town, they soon discover they have a connection to the original Ghostbusters and the secret legacy their grandfather left behind.
+### Friday, January 14 & Saturday, January 15 @ 6:30pm
+
+# Coming Soon 
+
+## Spider Man: No Way Home
+
+With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the high stakes of being a superhero. When Peter asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
 
 _Rated: PG-13_
 
-# Upcoming Movies
+### Friday, January 21 & Saturday, January 22 @ 6:30pm
 
-### December 24 & 24 - No Showing, Merry Christmas!!
+### Friday, January 28 & Saturday, January 29 @ 6:30pm
 
-### January 31 & 1 - No Showing, Happy New Year!!
+## Sing 2
 
-### January 7 & 8 - Encanto
+Can-do koala Buster Moon and his all-star cast of animal performers prepare to launch a dazzling stage extravaganza in the glittering entertainment capital of the world. There's just one hitch -- he has to find and persuade the world's most reclusive rock star to join them. What begins as Buster's dream of big-time success soon becomes an emotional reminder of the power of music to heal even the most broken heart.
 
-### January 14 & 15 - Encanto
+_Rated: PG_
+
+### Friday, February 4 & Saturday, February 5 @ 6:30pm
 
 # Ticket Prices
 
