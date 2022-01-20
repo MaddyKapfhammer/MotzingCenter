@@ -8,18 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing 
 
-## Encanto
-
-The Madrigals are an extraordinary family who live hidden in the mountains of Colombia in a charmed place called the Encanto. The magic of the Encanto has blessed every child in the family with a unique gift -- every child except Mirabel. However, she soon may be the Madrigals last hope when she discovers that the magic surrounding the Encanto is now in danger.
-
-_Rated: PG_
-
-### Friday, January 7 & Saturday, January 8 @ 6:30pm
-
-### Friday, January 14 & Saturday, January 15 @ 6:30pm
-
-# Coming Soon 
-
 ## Spider Man: No Way Home
 
 With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the high stakes of being a superhero. When Peter asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
@@ -29,6 +17,8 @@ _Rated: PG-13_
 ### Friday, January 21 & Saturday, January 22 @ 6:30pm
 
 ### Friday, January 28 & Saturday, January 29 @ 6:30pm
+
+# Coming Soon 
 
 ## Sing 2
 
