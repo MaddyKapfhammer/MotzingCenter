@@ -8,18 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing 
 
-## Spider Man: No Way Home
-
-With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the high stakes of being a superhero. When Peter asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
-
-_Rated: PG-13_
-
-### Friday, January 21 & Saturday, January 22 @ 6:30pm
-
-### Friday, January 28 & Saturday, January 29 @ 6:30pm
-
-# Coming Soon 
-
 ## Sing 2
 
 Can-do koala Buster Moon and his all-star cast of animal performers prepare to launch a dazzling stage extravaganza in the glittering entertainment capital of the world. There's just one hitch -- he has to find and persuade the world's most reclusive rock star to join them. What begins as Buster's dream of big-time success soon becomes an emotional reminder of the power of music to heal even the most broken heart.
@@ -27,6 +15,38 @@ Can-do koala Buster Moon and his all-star cast of animal performers prepare to l
 _Rated: PG_
 
 ### Friday, February 4 & Saturday, February 5 @ 6:30pm
+
+### Friday, February 11 & Saturday, February 12 @ 6:30pm
+
+# Coming Soon
+
+## American Underdog
+
+The inspirational true story of Kurt Warner, who overcomes years of challenges and setbacks to become a two-time NFL MVP, Super Bowl champion, and Hall of Fame quarterback. Just when his dreams seem all but out of reach, it's only with the support of his wife, Brenda, and the encouragement of his family, coaches and teammates that Warner perseveres and finds the strength to show the world the champion that he already is.
+
+_Rated: PG_
+
+### Friday, February 18 & Saturday, February 19 @ 6:30pm
+
+### Friday, February 25 & Saturday, February 26
+
+## The Wolf and the Lion
+
+After her grandfather's death, 20-year-old Alma decides to go back to her childhood home - a little island in the heart of a majestic forest. Whilst there, she rescues two helpless cubs, a wolf and a lion. They forge and inseparable bond, but their world soon collapses as the forest ranger discovers the animals and takes them away. The two cub brothers must now embark on a treacherous journey to be reunited with one another an Alma once more.
+
+_Rated: PG_
+
+### Friday, March 4 & Saturday, March 5
+
+### Friday, March 11 & Saturday, March 12
+
+## Death on the Nile
+
+Belgian sleuth Hercule Poirot's Egyptian vacation aboard a glamorous river steamer turns into a terrifying search for a murderer when a picture-perfect couple's idyllic honeymoon is tragically cut short.
+
+_Rated: PG-13_
+
+### Friday, March 18 & Saturday, March 19
 
 # Ticket Prices
 
