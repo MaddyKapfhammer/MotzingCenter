@@ -6,19 +6,7 @@ image: "images/testimonial/testimony.png"
 category: ["Iris Theatre"]
 ---
 
-# Now Showing 
-
-## Sing 2
-
-Can-do koala Buster Moon and his all-star cast of animal performers prepare to launch a dazzling stage extravaganza in the glittering entertainment capital of the world. There's just one hitch -- he has to find and persuade the world's most reclusive rock star to join them. What begins as Buster's dream of big-time success soon becomes an emotional reminder of the power of music to heal even the most broken heart.
-
-_Rated: PG_
-
-### Friday, February 4 & Saturday, February 5 @ 6:30pm
-
-### Friday, February 11 & Saturday, February 12 @ 6:30pm
-
-# Coming Soon
+# Now Showing
 
 ## American Underdog
 
@@ -28,11 +16,19 @@ _Rated: PG_
 
 ### Friday, February 18 & Saturday, February 19 @ 6:30pm
 
-### Friday, February 25 & Saturday, February 26
+# Coming Soon
 
-## The Wolf and the Lion
+## Hotel Transylvania 4: Transformania
 
-After her grandfather's death, 20-year-old Alma decides to go back to her childhood home - a little island in the heart of a majestic forest. Whilst there, she rescues two helpless cubs, a wolf and a lion. They forge and inseparable bond, but their world soon collapses as the forest ranger discovers the animals and takes them away. The two cub brothers must now embark on a treacherous journey to be reunited with one another an Alma once more.
+Van Helsing's mysterious new invention transforms Drac and his pals into humans, and Johnny into a monster. With their new mismatched bodies, Drac and the pack must find a way to switch themselves back before their transformations become permanent.
+
+_Rated: PG_
+
+### Friday, February 25 & Saturday, February 26 @ 6:30pm
+
+## The Batman
+
+Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues. As the evidence begins to lead closer to home and the scale of the perpetrator's plans become clear, he must forge new relationships, unmask the culprit and bring justice to the abuse of power and corruption that has long plagued the metropolis.
 
 _Rated: PG_
 
@@ -46,7 +42,25 @@ Belgian sleuth Hercule Poirot's Egyptian vacation aboard a glamorous river steam
 
 _Rated: PG-13_
 
-### Friday, March 18 & Saturday, March 19
+### Friday, March 18 & Saturday, March 19 @ 6:30pm
+
+## Uncharted
+
+Nathan Drake and his wise cracking partner Victor "Sully" Sullivan embark on a dangerous quest to find the greatest treasure never found while also tracking clues that may lead to Nate's long-lost brother.
+
+_Rated: PG-13_
+
+### Friday, March 25 & Saturday, March 26 @ 6:30pm
+
+### Friday, April 1 & Saturday, April 2 @ 6:30pm
+
+## The Wolf and the Lion
+
+After her grandfather's death, 20-year-old Alma decides to go back to her childhood home - a little island in the heart of a majestic forest. Whilst there, she rescues two helpless cubs, a wolf and a lion. They forge and inseparable bond, but their world soon collapses as the forest ranger discovers the animals and takes them away. The two cub brothers must now embark on a treacherous journey to be reunited with one another an Alma once more.
+
+_Rated: PG_
+
+### Friday, April 8 & Saturday, April 9 @ 6:30pm
 
 # Ticket Prices
 
