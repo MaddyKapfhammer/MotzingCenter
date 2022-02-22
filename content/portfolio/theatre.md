@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## American Underdog
-
-The inspirational true story of Kurt Warner, who overcomes years of challenges and setbacks to become a two-time NFL MVP, Super Bowl champion, and Hall of Fame quarterback. Just when his dreams seem all but out of reach, it's only with the support of his wife, Brenda, and the encouragement of his family, coaches and teammates that Warner perseveres and finds the strength to show the world the champion that he already is.
-
-_Rated: PG_
-
-### Friday, February 18 & Saturday, February 19 @ 6:30pm
-
-# Coming Soon
-
 ## Hotel Transylvania 4: Transformania
 
 Van Helsing's mysterious new invention transforms Drac and his pals into humans, and Johnny into a monster. With their new mismatched bodies, Drac and the pack must find a way to switch themselves back before their transformations become permanent.
@@ -25,6 +15,8 @@ Van Helsing's mysterious new invention transforms Drac and his pals into humans,
 _Rated: PG_
 
 ### Friday, February 25 & Saturday, February 26 @ 6:30pm
+
+# Coming Soon
 
 ## The Batman
 
