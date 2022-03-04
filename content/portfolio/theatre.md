@@ -8,25 +8,17 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Hotel Transylvania 4: Transformania
-
-Van Helsing's mysterious new invention transforms Drac and his pals into humans, and Johnny into a monster. With their new mismatched bodies, Drac and the pack must find a way to switch themselves back before their transformations become permanent.
-
-_Rated: PG_
-
-### Friday, February 25 & Saturday, February 26 @ 6:30pm
-
-# Coming Soon
-
 ## The Batman
 
 Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues. As the evidence begins to lead closer to home and the scale of the perpetrator's plans become clear, he must forge new relationships, unmask the culprit and bring justice to the abuse of power and corruption that has long plagued the metropolis.
 
 _Rated: PG_
 
-### Friday, March 4 & Saturday, March 5
+### Friday, March 4 (Doors Open @ 4:45, movie starts at 5:30) & Saturday, March 5 (Open all day 8am-8:30pm, movies at 1:30 and 5:30) 
 
 ### Friday, March 11 & Saturday, March 12
+
+# Coming Soon
 
 ## Death on the Nile
 
