@@ -8,18 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Uncharted
-
-### Friday, March 25 & Saturday, March 26 @ 6:30pm
-
-### Friday, April 1 & Saturday, April 2 @ 6:30pm
-
-Nathan Drake and his wise cracking partner Victor "Sully" Sullivan embark on a dangerous quest to find the greatest treasure never found while also tracking clues that may lead to Nate's long-lost brother.
-
-_Rated: PG-13_
-
-# Coming Soon
-
 ## The Wolf and the Lion
 
 ### Friday, April 8 & Saturday, April 9 @ 6:30pm
@@ -27,6 +15,10 @@ _Rated: PG-13_
 After her grandfather's death, 20-year-old Alma decides to go back to her childhood home - a little island in the heart of a majestic forest. Whilst there, she rescues two helpless cubs, a wolf and a lion. They forge and inseparable bond, but their world soon collapses as the forest ranger discovers the animals and takes them away. The two cub brothers must now embark on a treacherous journey to be reunited with one another an Alma once more.
 
 _Rated: PG_
+
+_Rated: PG-13_
+
+# Coming Soon
 
 ## The Passion of the Christ
 
