@@ -8,25 +8,15 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## The Wolf and the Lion
-
-### Friday, April 8 & Saturday, April 9 @ 6:30pm
-
-After her grandfather's death, 20-year-old Alma decides to go back to her childhood home - a little island in the heart of a majestic forest. Whilst there, she rescues two helpless cubs, a wolf and a lion. They forge and inseparable bond, but their world soon collapses as the forest ranger discovers the animals and takes them away. The two cub brothers must now embark on a treacherous journey to be reunited with one another an Alma once more.
-
-_Rated: PG_
-
-_Rated: PG-13_
-
-# Coming Soon
-
-## The Passion of the Christ
+## The Passion of the Christ - Free Showing!!!
 
 ### Friday, April 15 & Saturday, April 16 @ 6:30pm
 
 In this version of Christ's crucifixion, based on the New Testament, Judas expedites the downfall of Jesus by handing him over to the Roman Empire's handpicked officials. To the horror of his mother, Mary, Magdalen, whom he saved from damnation, and his disciples, Jesus is condemned to death. He is tortured as he drags a crucifix to nearby Calvary, where he is nailed to the cross. He dies, but not before a last act of grace.
 
 _Rated: R_
+
+# Coming Soon
 
 ## The Bad Guys
 
