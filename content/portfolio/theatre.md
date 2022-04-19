@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## The Passion of the Christ - Free Showing!!!
-
-### Friday, April 15 & Saturday, April 16 @ 6:30pm
-
-In this version of Christ's crucifixion, based on the New Testament, Judas expedites the downfall of Jesus by handing him over to the Roman Empire's handpicked officials. To the horror of his mother, Mary, Magdalen, whom he saved from damnation, and his disciples, Jesus is condemned to death. He is tortured as he drags a crucifix to nearby Calvary, where he is nailed to the cross. He dies, but not before a last act of grace.
-
-_Rated: R_
-
-# Coming Soon
-
 ## The Bad Guys
 
 ### Friday, April 22 & Saturday, April 23 @ 6:30pm
@@ -25,6 +15,28 @@ _Rated: R_
 ### Friday, April 29 & Saturday, April 30 @ 6:30pm
 
 After a lifetime of legendary heists, notorious criminals Mr. Wolf, Mr. Snake, Mr. Piranha, Mr. Shark, and Ms. Tarantula are finally caught. To avoid a prison sentence, the animal outlaws must pull off their most challenging con yet -- becoming model citizens. Under the tutelage of their mentor, Professor Marmalade, the dubious gang sets out to fool the world that they're turning good.
+
+_Rated: PG_
+
+# Coming Soon
+
+## The Lost City
+
+### Friday, May 6 & Saturday, May 7 @ 6:30pm
+
+### Friday, May 13 & Friday, May 14 @ 6:30pm
+
+Reclusive author Loretta Sage writes about exotic places in her popular adventure novels that feature a handsome cover model named Alan. While on tour promoting her new book with Alan, Loretta gets kidnapped by an eccentric billionaire who hopes she can lead him to an ancient city's lost treasure from her latest story. Determined to prove he can be a hero in real life and not just on the pages of her books, Alan sets off to rescue her.
+
+_Rated: PG-13_
+
+## Sonic the Hedgehog 2
+
+### Friday, May 20 & Saturday, May 21 @ 6:30pm
+
+### Friday, May 27 & Saturday, May 28 @ 6:30pm
+
+After settling in Green Hills, Sonic is eager to prove that he has what it takes to be a true hero. His test comes when Dr. Robotnik returns with a new partner, Knuckles, in search of a mystical emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
 
 _Rated: PG_
 
