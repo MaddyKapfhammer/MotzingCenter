@@ -20,21 +20,19 @@ _Rated: PG_
 
 # Coming Soon
 
-## The Lost City
+## Fantastic Beasts: The Secrets of Dumbledore
 
 ### Friday, May 6 & Saturday, May 7 @ 6:30pm
 
-### Friday, May 13 & Friday, May 14 @ 6:30pm
-
-Reclusive author Loretta Sage writes about exotic places in her popular adventure novels that feature a handsome cover model named Alan. While on tour promoting her new book with Alan, Loretta gets kidnapped by an eccentric billionaire who hopes she can lead him to an ancient city's lost treasure from her latest story. Determined to prove he can be a hero in real life and not just on the pages of her books, Alan sets off to rescue her.
+Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving the seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.
 
 _Rated: PG-13_
 
 ## Sonic the Hedgehog 2
 
-### Friday, May 20 & Saturday, May 21 @ 6:30pm
+### Friday, May 13 & Saturday, May 14 @ 6:30pm
 
-### Friday, May 27 & Saturday, May 28 @ 6:30pm
+### Friday, May 20 & Saturday, May 21 @ 6:30pm
 
 After settling in Green Hills, Sonic is eager to prove that he has what it takes to be a true hero. His test comes when Dr. Robotnik returns with a new partner, Knuckles, in search of a mystical emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
 
