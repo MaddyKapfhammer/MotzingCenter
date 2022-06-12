@@ -8,19 +8,49 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Sonic the Hedgehog 2
+## Friday, June 17 & Saturday, June 18
 
-### Friday, May 13 & Saturday, May 14 @ 6:30pm
+### Dr. Strange in the Multiverse of Madness
 
-### Friday, May 20 & Saturday, May 21 @ 6:30pm
+Dr. Stephen Strange casts a forbidden spell that opens a portal to the multiverse. However, a threat emerges that may be too big for this team to handle.
 
-After settling in Green Hills, Sonic is eager to prove that he has what it takes to be a true hero. His test comes when Dr. Robotnik returns with a new partner, Knuckles, in search of a mystical emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
-
-_Rated: PG_
+_Rated: PG-13_
 
 # Coming Soon
 
-## Friday, May 27 & Saturday, May 28 - No Showing
+## Friday, June 24 & Saturday, June 25
+
+### Dr. Strange in the Multiverse of Madness
+
+Dr. Stephen Strange casts a forbidden spell that opens a portal to the multiverse. However, a threat emerges that may be too big for this team to handle.
+
+_Rated: PG-13_
+
+## Friday, July 1 & Saturday, July 2 - No Showing! Enjoy the holiday weekend
+
+## Friday, July 8 & Saturday, July 9
+
+### Minions: Rise of Gru
+
+In the 1970s, young Gru tries to join a group of supervillains called the Vicious 6 after they oust their leader -- the legendary fighter Wild Knuckles. When the interview turns disastrous, Gru and his Minions go on the run with the Vicious 6 hot on their tails. Luckily, he finds an unlikely source for guidance -- Wild Knuckles himself -- and soon discovers that even bad guys need a little help from their friends.
+
+_Rated: PG_
+
+## Friday, July 15 & Saturday, July 16
+
+### Minions: Rise of Gru
+
+In the 1970s, young Gru tries to join a group of supervillains called the Vicious 6 after they oust their leader -- the legendary fighter Wild Knuckles. When the interview turns disastrous, Gru and his Minions go on the run with the Vicious 6 hot on their tails. Luckily, he finds an unlikely source for guidance -- Wild Knuckles himself -- and soon discovers that even bad guys need a little help from their friends.
+
+_Rated: PG_
+
+## Friday, July 22 & Saturday, July 23
+
+### Jurassic World: Dominion
+
+Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.
+
+_Rated: PG-13_
 
 # Ticket Prices
 
