@@ -8,26 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, June 17 & Saturday, June 18
-
-### Dr. Strange in the Multiverse of Madness
-
-Dr. Stephen Strange casts a forbidden spell that opens a portal to the multiverse. However, a threat emerges that may be too big for this team to handle.
-
-_Rated: PG-13_
-
-# Coming Soon
-
-## Friday, June 24 & Saturday, June 25
-
-### Dr. Strange in the Multiverse of Madness
-
-Dr. Stephen Strange casts a forbidden spell that opens a portal to the multiverse. However, a threat emerges that may be too big for this team to handle.
-
-_Rated: PG-13_
-
-## Friday, July 1 & Saturday, July 2 - No Showing! Enjoy the holiday weekend
-
 ## Friday, July 8 & Saturday, July 9
 
 ### Minions: Rise of Gru
@@ -35,6 +15,8 @@ _Rated: PG-13_
 In the 1970s, young Gru tries to join a group of supervillains called the Vicious 6 after they oust their leader -- the legendary fighter Wild Knuckles. When the interview turns disastrous, Gru and his Minions go on the run with the Vicious 6 hot on their tails. Luckily, he finds an unlikely source for guidance -- Wild Knuckles himself -- and soon discovers that even bad guys need a little help from their friends.
 
 _Rated: PG_
+
+# Coming Soon
 
 ## Friday, July 15 & Saturday, July 16
 
