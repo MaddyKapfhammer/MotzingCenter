@@ -8,24 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, July 8 & Saturday, July 9
-
-### Minions: Rise of Gru
-
-In the 1970s, young Gru tries to join a group of supervillains called the Vicious 6 after they oust their leader -- the legendary fighter Wild Knuckles. When the interview turns disastrous, Gru and his Minions go on the run with the Vicious 6 hot on their tails. Luckily, he finds an unlikely source for guidance -- Wild Knuckles himself -- and soon discovers that even bad guys need a little help from their friends.
-
-_Rated: PG_
-
-# Coming Soon
-
-## Friday, July 15 & Saturday, July 16
-
-### Minions: Rise of Gru
-
-In the 1970s, young Gru tries to join a group of supervillains called the Vicious 6 after they oust their leader -- the legendary fighter Wild Knuckles. When the interview turns disastrous, Gru and his Minions go on the run with the Vicious 6 hot on their tails. Luckily, he finds an unlikely source for guidance -- Wild Knuckles himself -- and soon discovers that even bad guys need a little help from their friends.
-
-_Rated: PG_
-
 ## Friday, July 22 & Saturday, July 23
 
 ### Jurassic World: Dominion
@@ -33,6 +15,24 @@ _Rated: PG_
 Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.
 
 _Rated: PG-13_
+
+# Coming Soon 
+
+## Friday, July 29 & Saturday, July 30
+
+### DC League of Super Pets
+
+Krypto the Super-Dog and Superman are inseparable best friends, sharing the same superpowers and fighting crime side by side in Metropolis. However, when the Man of Steel and the rest of the Justice League are kidnapped, Krypto must convince a ragtag group of animals to master their own newfound powers for a rescue mission.
+
+_Rated: PG_
+
+## Friday, August 5 & Saturday, August 6
+
+### DC League of Super Pets
+
+Krypto the Super-Dog and Superman are inseparable best friends, sharing the same superpowers and fighting crime side by side in Metropolis. However, when the Man of Steel and the rest of the Justice League are kidnapped, Krypto must convince a ragtag group of animals to master their own newfound powers for a rescue mission.
+
+_Rated: PG_
 
 # Ticket Prices
 
