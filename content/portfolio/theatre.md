@@ -8,7 +8,7 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, July 22 & Saturday, July 23
+## Friday, July 22 & Saturday, July 23 @ 6:30pm
 
 ### Jurassic World: Dominion
 
@@ -18,7 +18,7 @@ _Rated: PG-13_
 
 # Coming Soon 
 
-## Friday, July 29 & Saturday, July 30
+## Friday, July 29 & Saturday, July 30 @ 6:30pm
 
 ### DC League of Super Pets
 
@@ -26,7 +26,7 @@ Krypto the Super-Dog and Superman are inseparable best friends, sharing the same
 
 _Rated: PG_
 
-## Friday, August 5 & Saturday, August 6
+## Friday, August 5 & Saturday, August 6 @ 6:30pm
 
 ### DC League of Super Pets
 
