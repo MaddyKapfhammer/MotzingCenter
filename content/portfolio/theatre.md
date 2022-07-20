@@ -36,13 +36,27 @@ _Rated: PG_
 
 ## Friday, August 12 & Saturday, August 13 @ 6:30pm
 
+### Paws of Fury: The Legend of Hank
+
+A down-on-his luck hound finds himself in a town full of cats who need a hero to defend them from a ruthless villain's evil plot to wip their village of the map. With help from a reluctant trainer, the underdog must assume the role of fearsome samurai and team up with the felines to save the day. The only problem is -- they all hate dogs.
+
+## Friday, August 19 & Saturday, August 20 @ 6:30pm
+
+_Rated: PG_
+
+### Paws of Fury: The Legend of Hank
+
+A down-on-his luck hound finds himself in a town full of cats who need a hero to defend them from a ruthless villain's evil plot to wip their village of the map. With help from a reluctant trainer, the underdog must assume the role of fearsome samurai and team up with the felines to save the day. The only problem is -- they all hate dogs.
+
+## Friday, August 26 & Saturday, August 27 @ 6:30pm
+
+_Rated: PG_
+
 ### Where the Crawdads Sing
 
 Abandoned as a girl, Kya raised herself in the dangerous marshlands of North Carolina. For years, rumors of the marsh girl haunted Barkley Cove, isolating the sharp and resilient Kya from her community. Drawn to two young men from town, she opens herself to a new and startling world. However, when one of them is found dead, Kya immediately becomes the main suspect. As the case unfolds, the verdict as to what happened becomes increasingly unclear, threatening to reveal many secrets.
 
 _Rated: PG-13_
-
-## Friday August 19 & Saturday, August 20 - NO SHOWING
 
 # Ticket Prices
 
