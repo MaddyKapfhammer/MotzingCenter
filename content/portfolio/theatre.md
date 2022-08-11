@@ -8,49 +8,25 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, July 22 & Saturday, July 23 @ 6:30pm
-
-### Jurassic World: Dominion
-
-Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.
-
-_Rated: PG-13_
-
-# Coming Soon 
-
-## Friday, July 29 & Saturday, July 30 @ 6:30pm
-
-### DC League of Super Pets
-
-Krypto the Super-Dog and Superman are inseparable best friends, sharing the same superpowers and fighting crime side by side in Metropolis. However, when the Man of Steel and the rest of the Justice League are kidnapped, Krypto must convince a ragtag group of animals to master their own newfound powers for a rescue mission.
-
-_Rated: PG_
-
-## Friday, August 5 & Saturday, August 6 @ 6:30pm
-
-### DC League of Super Pets
-
-Krypto the Super-Dog and Superman are inseparable best friends, sharing the same superpowers and fighting crime side by side in Metropolis. However, when the Man of Steel and the rest of the Justice League are kidnapped, Krypto must convince a ragtag group of animals to master their own newfound powers for a rescue mission.
-
-_Rated: PG_
-
 ## Friday, August 12 & Saturday, August 13 @ 6:30pm
 
 ### Paws of Fury: The Legend of Hank
 
 A down-on-his luck hound finds himself in a town full of cats who need a hero to defend them from a ruthless villain's evil plot to wip their village of the map. With help from a reluctant trainer, the underdog must assume the role of fearsome samurai and team up with the felines to save the day. The only problem is -- they all hate dogs.
 
-## Friday, August 19 & Saturday, August 20 @ 6:30pm
-
 _Rated: PG_
+
+# Coming Soon 
+
+## Friday, August 19 & Saturday, August 20 @ 6:30pm
 
 ### Paws of Fury: The Legend of Hank
 
 A down-on-his luck hound finds himself in a town full of cats who need a hero to defend them from a ruthless villain's evil plot to wip their village of the map. With help from a reluctant trainer, the underdog must assume the role of fearsome samurai and team up with the felines to save the day. The only problem is -- they all hate dogs.
 
-## Friday, August 26 & Saturday, August 27 @ 6:30pm
-
 _Rated: PG_
+
+## Friday, August 26 & Saturday, August 27 @ 6:30pm
 
 ### Where the Crawdads Sing
 
