@@ -8,10 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, September 2 & Saturday, September 3 - NO SHOWING
-
-# Coming Soon 
-
 ## Friday, September 9 & Saturday September 10 - Jack Motzing's Day of Grace
 
 ### Kung Fu Panda
@@ -19,6 +15,8 @@ category: ["Iris Theatre"]
 Po might just be the laziest, clumsiest panda in the Valley of Peace, but he secretly dreams of becoming a kung fu legend. When the villainous snow leopard Tai Lung threatens Po's homeland, the hapless panda is chosen to fulfill an ancient prophecy and defend the Valley from attack. Training under Master Shifu, Po embarks on an epic high-kicking adventure as he sets out to thwart Tai Lung's evil plans.
 
 _Rated: PG_
+
+# Coming Soon 
 
 ## Friday, September 16 & Saturday, September 17 @ 6:30pm
 
