@@ -8,23 +8,49 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, September 9 & Saturday September 10 - Jack Motzing's Day of Grace
-
-### Kung Fu Panda
-
-Po might just be the laziest, clumsiest panda in the Valley of Peace, but he secretly dreams of becoming a kung fu legend. When the villainous snow leopard Tai Lung threatens Po's homeland, the hapless panda is chosen to fulfill an ancient prophecy and defend the Valley from attack. Training under Master Shifu, Po embarks on an epic high-kicking adventure as he sets out to thwart Tai Lung's evil plans.
-
-_Rated: PG_
-
-# Coming Soon 
-
 ## Friday, September 16 & Saturday, September 17 @ 6:30pm
 
-### Thor: God of Love & War
+### Thor: God of Love & Thunder
 
 Thor: Love and Thunder follows Thor as he attempts to find inner peace, but must return to action and recruit Valkyrie, Korg and Foster to stop Gorr from eliminating all gods.
 
 _Rated: PG-13_
+
+# Coming Soon 
+
+## Friday, September 23 & Saturday, September 24
+
+### Dragon Ball Super: Super Hero
+
+The Red Ribbon Army was once destroyed by Son Goku. Individuals who carry on its spirit have created the ultimate androids - Gamma 1 and Gamma 2. However, these two androids call themsevles superheroes and start attacking Piccolo and Gohan.
+
+_Rated: PG-13_
+
+## Friday, September 30 & Saturday, October 1
+
+### See How They Run
+
+In 1950s London, plans for a movie version of a smash-hit play come to an abrupt halt after pivotal member of the crew is murdered. When a world-weary inspector and an eager rookie constable take on the case, they find themsevles thrown into a puzzling whodunit within the glamorously sordid world of underground theater, investigating the mysterious homicide at their own peril.
+
+_Rated: PG-13_
+
+## Friday, October 7 & Saturday, October 8
+
+### Lyle, Lyle Crocodile
+
+When the Primm family moves to New York City, their young son, Josh, struggles to adapt to his new school and friends. All of that changes when he discovers Lyle, a singing crocodile that loves baths, caviar and great music. The two become fast friends, but when evil neighbor Mr. Grumps threatens Lyle's existence, the Primms must band together to show the world that family can come from the most unexpected places.
+
+_Rated: PG_
+
+## Friday, October 14 & Saturday, October 15
+
+### Lyle, Lyle Crocodile
+
+When the Primm family moves to New York City, their young son, Josh, struggles to adapt to his new school and friends. All of that changes when he discovers Lyle, a singing crocodile that loves baths, caviar and great music. The two become fast friends, but when evil neighbor Mr. Grumps threatens Lyle's existence, the Primms must band together to show the world that family can come from the most unexpected places.
+
+_Rated: PG_
+
+
 
 # Ticket Prices
 
