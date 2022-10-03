@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, September 30 & Saturday, October 1
-
-### See How They Run
-
-In 1950s London, plans for a movie version of a smash-hit play come to an abrupt halt after pivotal member of the crew is murdered. When a world-weary inspector and an eager rookie constable take on the case, they find themsevles thrown into a puzzling whodunit within the glamorously sordid world of underground theater, investigating the mysterious homicide at their own peril.
-
-_Rated: PG-13_
-
-# Coming Soon 
-
 ## Friday, October 7 & Saturday, October 8
 
 ### Lyle, Lyle Crocodile
@@ -25,6 +15,8 @@ _Rated: PG-13_
 When the Primm family moves to New York City, their young son, Josh, struggles to adapt to his new school and friends. All of that changes when he discovers Lyle, a singing crocodile that loves baths, caviar and great music. The two become fast friends, but when evil neighbor Mr. Grumps threatens Lyle's existence, the Primms must band together to show the world that family can come from the most unexpected places.
 
 _Rated: PG_
+
+# Coming Soon 
 
 ## Friday, October 14 & Saturday, October 15
 
