@@ -8,7 +8,7 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, October 7 & Saturday, October 8
+## Friday, October 14 & Saturday, October 15
 
 ### Lyle, Lyle Crocodile
 
@@ -18,14 +18,35 @@ _Rated: PG_
 
 # Coming Soon 
 
-## Friday, October 14 & Saturday, October 15
+## Friday, October 21 and Saturday, October 22
 
-### Lyle, Lyle Crocodile
+### Black Adam
 
-When the Primm family moves to New York City, their young son, Josh, struggles to adapt to his new school and friends. All of that changes when he discovers Lyle, a singing crocodile that loves baths, caviar and great music. The two become fast friends, but when evil neighbor Mr. Grumps threatens Lyle's existence, the Primms must band together to show the world that family can come from the most unexpected places.
+In ancient Kahndaq, Teth Adam was bestowed the almighty powers of the gods. After using these powers for vengeance, he was imprisoned, becoming Black Adam. Nearly 5,000 years have passed, and Black Adam has gone from man to mythin to legend. Now free, his unique form of justice, born out of rage, is challenged by modern-day heroes who form the Justice Society: Hawkman, Dr. Fate, Atom Smasher and Cyclone. 
 
-_Rated: PG_
+_Rated: PG-13_
 
+## Friday, October 21 and Saturday, October 22
+
+### Black Adam
+
+In ancient Kahndaq, Teth Adam was bestowed the almighty powers of the gods. After using these powers for vengeance, he was imprisoned, becoming Black Adam. Nearly 5,000 years have passed, and Black Adam has gone from man to mythin to legend. Now free, his unique form of justice, born out of rage, is challenged by modern-day heroes who form the Justice Society: Hawkman, Dr. Fate, Atom Smasher and Cyclone. 
+
+_Rated: PG-13_
+
+## Friday, November 4 & Saturday, November 5 - No Showing
+
+## Friday, November 11 & Saturday, November 12 - No Showing
+
+## Friday, November 18 & Saturday, November 19 - No showing 
+
+## Friday, November 25 & Saturday, November 26 
+
+### Devotion
+
+Elite fighter pilots Jesse Brown and Tom Hudner become the US Navy's most celebrated wingmen during the Korean war.
+
+_Rated: PG-13_
 
 # Ticket Prices
 
