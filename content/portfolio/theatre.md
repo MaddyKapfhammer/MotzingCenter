@@ -8,7 +8,7 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, October 21 and Saturday, October 22
+## Friday, October 27 and Saturday, October 28
 
 ### Black Adam
 
@@ -17,14 +17,6 @@ In ancient Kahndaq, Teth Adam was bestowed the almighty powers of the gods. Afte
 _Rated: PG-13_
 
 # Coming Soon 
-
-## Friday, October 21 and Saturday, October 22
-
-### Black Adam
-
-In ancient Kahndaq, Teth Adam was bestowed the almighty powers of the gods. After using these powers for vengeance, he was imprisoned, becoming Black Adam. Nearly 5,000 years have passed, and Black Adam has gone from man to mythin to legend. Now free, his unique form of justice, born out of rage, is challenged by modern-day heroes who form the Justice Society: Hawkman, Dr. Fate, Atom Smasher and Cyclone. 
-
-_Rated: PG-13_
 
 ## Friday, November 4 & Saturday, November 5 - No Showing
 
