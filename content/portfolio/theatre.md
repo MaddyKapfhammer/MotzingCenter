@@ -20,9 +20,9 @@ _Rated: G_
 
 ## Friday, December 9 & Saturday, December 10
 
-### Devotion
+### Black Panther: Wakanda Forever
 
-Elite fighter pilots Jesse Brown and Tom Hudner become the US Navy's most celebrated wingmen during the Korean war.
+After the death of his father, T'Challa returns home to the African nation of Wakanda to take his rightful place as king. When a powerful enemy suddenly reappears, T'Challa's mettle as king--and as black panther--gets tested when he's drawn into a conflict that puts the fate of Wakanda and the entire world at risk. Faced with treachery and danger, the young king must rally his allies and release the full power of Black Panther to defeat his foes and secure the safety of his people.
 
 _Rated: PG-13_
 
@@ -33,6 +33,15 @@ _Rated: PG-13_
 After the death of his father, T'Challa returns home to the African nation of Wakanda to take his rightful place as king. When a powerful enemy suddenly reappears, T'Challa's mettle as king--and as black panther--gets tested when he's drawn into a conflict that puts the fate of Wakanda and the entire world at risk. Faced with treachery and danger, the young king must rally his allies and release the full power of Black Panther to defeat his foes and secure the safety of his people.
 
 _Rated: PG-13_
+
+
+## Friday, December 23 & Saturday, December 24
+
+### Merry Christmas!!!
+
+## Friday, December 30 & Saturday, December 31
+
+### Happy New Year!!!
 
 # Ticket Prices
 
