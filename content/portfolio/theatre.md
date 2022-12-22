@@ -8,20 +8,12 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, December 16 & Saturday, December 17 @ 6:00pm
-
-### Black Panther: Wakanda Forever
-
-After the death of his father, T'Challa returns home to the African nation of Wakanda to take his rightful place as king. When a powerful enemy suddenly reappears, T'Challa's mettle as king--and as black panther--gets tested when he's drawn into a conflict that puts the fate of Wakanda and the entire world at risk. Faced with treachery and danger, the young king must rally his allies and release the full power of Black Panther to defeat his foes and secure the safety of his people.
-
-_Rated: PG-13_
-
-
-# Coming Soon 
-
 ## Friday, December 23 & Saturday, December 24
 
 ### Merry Christmas!!!
+
+
+# Coming Soon 
 
 ## Friday, December 30 & Saturday, December 31
 
@@ -29,21 +21,15 @@ _Rated: PG-13_
 
 ## Friday, January 6 & Saturday, January 7
 
-### I heard the Bells
-
-Known as America's Poet, Henry Wadsworth Longfellow leads an idyllic life, until the day his world is shattered by tragedy. With a nation divided by the Civil War and his family torn apart, Henry puts down his pen. The sound of Christmas morning reignites the poet's lost voice, and he discovers his rekindled faith. 
+### No Movie Showing - Theatre Closed
 
 ## Friday, January 13 & Saturday, January 14 
 
-### Avatar: The Way of Water
-
-Jake Sully and Key'tiri have formed a family and are doing everything to stay together. However, they must leave their home and explore the regions of Pandora. When an ancient threat resurfaces, Jake must fight a difficult war against the humans.
+### Check back for updates on the schedule soon!!!
 
 ## Friday, January 20 & Saturday, January 21 
 
-### Avatar: The Way of Water
-
-Jake Sully and Key'tiri have formed a family and are doing everything to stay together. However, they must leave their home and explore the regions of Pandora. When an ancient threat resurfaces, Jake must fight a difficult war against the humans.
+### Avatar: Check back for updates on the schedule soon!!!
 
 ## Friday, January 27 & Saturday, January 28 
 
