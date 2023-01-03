@@ -8,24 +8,16 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, December 23 & Saturday, December 24
-
-### Merry Christmas!!!
-
-
-# Coming Soon 
-
-## Friday, December 30 & Saturday, December 31
-
-### Happy New Year!!!
-
 ## Friday, January 6 & Saturday, January 7
 
 ### No Movie Showing - Theatre Closed
 
+
+# Coming Soon 
+
 ## Friday, January 13 & Saturday, January 14 
 
-### Check back for updates on the schedule soon!!!
+### No Movie Showing - Theatre Closed
 
 ## Friday, January 20 & Saturday, January 21 
 
