@@ -8,20 +8,18 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, January 6 & Saturday, January 7
+## Friday, January 13 & Saturday, January 14 
 
 ### No Movie Showing - Theatre Closed
 
 
 # Coming Soon 
 
-## Friday, January 13 & Saturday, January 14 
-
-### No Movie Showing - Theatre Closed
-
 ## Friday, January 20 & Saturday, January 21 
 
-### Avatar: Check back for updates on the schedule soon!!!
+### Puss in Boots: The Last Wish 
+
+Puss in Boots discovers that his passion for adventure has taken its toll: be has burnt through eight of his nine lives. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
 
 ## Friday, January 27 & Saturday, January 28 
 
@@ -31,9 +29,19 @@ Puss in Boots discovers that his passion for adventure has taken its toll: be ha
 
 ## Friday, February 3 & Saturday, February 4
 
-### Puss in Boots: The Last Wish 
+### No Movie Showing - Theatre Closed
 
-Puss in Boots discovers that his passion for adventure has taken its toll: be has burnt through eight of his nine lives. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
+## Friday, February 10 & Saturday, February 11
+
+### You choose the chick flick! Check out our Facebook page for more information!!
+
+## Friday, February 17 & February 18
+
+### No Movie Showing - Theatre Closed
+
+## Friday, February 24 & Saturday, February 25 
+
+### No Movie Showing - Theatre Closed
 
 # Ticket Prices
 
