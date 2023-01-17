@@ -8,18 +8,15 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, January 13 & Saturday, January 14 
-
-### No Movie Showing - Theatre Closed
-
-
-# Coming Soon 
-
 ## Friday, January 20 & Saturday, January 21 
 
 ### Puss in Boots: The Last Wish 
 
 Puss in Boots discovers that his passion for adventure has taken its toll: be has burnt through eight of his nine lives. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
+
+_Rated: PG_
+
+# Coming Soon 
 
 ## Friday, January 27 & Saturday, January 28 
 
@@ -27,13 +24,17 @@ Puss in Boots discovers that his passion for adventure has taken its toll: be ha
 
 Puss in Boots discovers that his passion for adventure has taken its toll: be has burnt through eight of his nine lives. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
 
+_Rated: PG_
+
 ## Friday, February 3 & Saturday, February 4
 
 ### No Movie Showing - Theatre Closed
 
 ## Friday, February 10 & Saturday, February 11
 
-### You choose the chick flick! Check out our Facebook page for more information!!
+### The Notebook
+
+In 1940s South Carolina, mill worker Noah Calhoun and rich girl Allie are desperately in love. But her parents don't approve. When Noah goes off to serve in World War II, it seems to mark the end of their love affair. In the interim, Allie becomes involved with another man. But when Noah returns to their small town years later, on the cusp of Allie's marriage, it soon becomes clear that their romance is anything but over.
 
 ## Friday, February 17 & February 18
 
