@@ -8,7 +8,7 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, January 20 & Saturday, January 21 
+## Friday, January 27 & Saturday, January 28 
 
 ### Puss in Boots: The Last Wish 
 
@@ -17,14 +17,6 @@ Puss in Boots discovers that his passion for adventure has taken its toll: be ha
 _Rated: PG_
 
 # Coming Soon 
-
-## Friday, January 27 & Saturday, January 28 
-
-### Puss in Boots: The Last Wish 
-
-Puss in Boots discovers that his passion for adventure has taken its toll: be has burnt through eight of his nine lives. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
-
-_Rated: PG_
 
 ## Friday, February 3 & Saturday, February 4
 
