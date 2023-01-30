@@ -8,19 +8,11 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, January 27 & Saturday, January 28 
-
-### Puss in Boots: The Last Wish 
-
-Puss in Boots discovers that his passion for adventure has taken its toll: be has burnt through eight of his nine lives. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.
-
-_Rated: PG_
-
-# Coming Soon 
-
 ## Friday, February 3 & Saturday, February 4
 
 ### No Movie Showing - Theatre Closed
+
+# Coming Soon 
 
 ## Friday, February 10 & Saturday, February 11
 
@@ -30,11 +22,19 @@ In 1940s South Carolina, mill worker Noah Calhoun and rich girl Allie are desper
 
 ## Friday, February 17 & February 18
 
-### No Movie Showing - Theatre Closed
+### Ant-Man and the Wasp: Quantumania
+
+Ant-Man and the Wasp find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that pushes them beyond the limits of what they thought was possible.
+
+_Rated: PG-13_
 
 ## Friday, February 24 & Saturday, February 25 
 
-### No Movie Showing - Theatre Closed
+### Ant-Man and the Wasp: Quantumania
+
+Ant-Man and the Wasp find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that pushes them beyond the limits of what they thought was possible.
+
+_Rated: PG-13_
 
 # Ticket Prices
 
