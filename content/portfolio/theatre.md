@@ -8,33 +8,18 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, February 3 & Saturday, February 4
-
-### No Movie Showing - Theatre Closed
-
-# Coming Soon 
-
 ## Friday, February 10 & Saturday, February 11
 
 ### The Notebook
 
 In 1940s South Carolina, mill worker Noah Calhoun and rich girl Allie are desperately in love. But her parents don't approve. When Noah goes off to serve in World War II, it seems to mark the end of their love affair. In the interim, Allie becomes involved with another man. But when Noah returns to their small town years later, on the cusp of Allie's marriage, it soon becomes clear that their romance is anything but over.
 
-## Friday, February 17 & February 18
-
-### Ant-Man and the Wasp: Quantumania
-
-Ant-Man and the Wasp find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that pushes them beyond the limits of what they thought was possible.
-
 _Rated: PG-13_
 
-## Friday, February 24 & Saturday, February 25 
+# Coming Soon 
 
-### Ant-Man and the Wasp: Quantumania
+**Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
 
-Ant-Man and the Wasp find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that pushes them beyond the limits of what they thought was possible.
-
-_Rated: PG-13_
 
 # Ticket Prices
 
