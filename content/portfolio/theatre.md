@@ -8,15 +8,38 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, February 10 & Saturday, February 11
+## Friday, February 17 & Saturday, February 18 @ 6:30pm
 
-### The Notebook
+### The Amazing Maurice 
 
-In 1940s South Carolina, mill worker Noah Calhoun and rich girl Allie are desperately in love. But her parents don't approve. When Noah goes off to serve in World War II, it seems to mark the end of their love affair. In the interim, Allie becomes involved with another man. But when Noah returns to their small town years later, on the cusp of Allie's marriage, it soon becomes clear that their romance is anything but over.
+Maurice is a streetwise ginger cat who comes up with a money-making scam by befriending a group of self-taught talking rats. When Maurice and the rodents meet a bookworm called Malicia, their little con soon goes down the drain.
+
+_Rated: PG_
+# Coming Soon 
+
+## Friday, February 24 & Saturday, February 25 @ 6:30pm
+
+### Jesus Revolution
+
+In the 1970s, Greg Laurie and a sea of young people descend on sunny Southern California to redefine truth through all means of liberation. Inadvertently, Laurie meets a charismatic street preacher and a pastor who opens the doors to a church to a stream of wandering youth. What unfolds is a counterculture movement that becomes the greatest spiritual awakening in American History.
 
 _Rated: PG-13_
 
-# Coming Soon 
+## Friday, March 3 & Saturday, March 4 @ 6:30pm
+
+### Jesus Revolution
+
+In the 1970s, Greg Laurie and a sea of young people descend on sunny Southern California to redefine truth through all means of liberation. Inadvertently, Laurie meets a charismatic street preacher and a pastor who opens the doors to a church to a stream of wandering youth. What unfolds is a counterculture movement that becomes the greatest spiritual awakening in American History.
+
+_Rated: PG-13_
+
+## Friday, March 10 & Saturday, March 11 @ 6:30pm
+
+### Jesus Revolution
+
+In the 1970s, Greg Laurie and a sea of young people descend on sunny Southern California to redefine truth through all means of liberation. Inadvertently, Laurie meets a charismatic street preacher and a pastor who opens the doors to a church to a stream of wandering youth. What unfolds is a counterculture movement that becomes the greatest spiritual awakening in American History.
+
+_Rated: PG-13_
 
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
 
