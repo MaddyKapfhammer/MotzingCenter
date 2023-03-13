@@ -8,27 +8,7 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, March 3 & Saturday, March 4 @ 6:30pm
-
-### Jesus Revolution
-
-In the 1970s, Greg Laurie and a sea of young people descend on sunny Southern California to redefine truth through all means of liberation. Inadvertently, Laurie meets a charismatic street preacher and a pastor who opens the doors to a church to a stream of wandering youth. What unfolds is a counterculture movement that becomes the greatest spiritual awakening in American History.
-
-_Rated: PG-13_
-
-# Coming Soon 
-
-
-## Friday, March 10 & Saturday, March 11 @ 6:30pm
-
-### Jesus Revolution
-
-In the 1970s, Greg Laurie and a sea of young people descend on sunny Southern California to redefine truth through all means of liberation. Inadvertently, Laurie meets a charismatic street preacher and a pastor who opens the doors to a church to a stream of wandering youth. What unfolds is a counterculture movement that becomes the greatest spiritual awakening in American History.
-
-_Rated: PG-13_
-
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
-
 
 # Ticket Prices
 
