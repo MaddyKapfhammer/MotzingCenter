@@ -8,6 +8,30 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
+## Friday, March 24 & Saturday, March 25 @ 6:30pm
+
+### Ant-Man and the Wasp: Quantumania
+
+Ant-Man and the Wasp find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that pushes them beyond the limits of what they thought was possible.
+
+_Rated: PG-13_
+
+## Friday, March 31 & Saturday, April 1 @ 6:30pm
+
+### His Only Son
+
+Abraham is commanded by God to sacrifice his son, and finds his faith tested during the three-day journey to the mountain of Moriah 
+
+_Rated: PG-13_
+
+## Friday, April 7 & Saturday, April 8
+
+### His Only Son
+
+Abraham is commanded by God to sacrifice his son, and finds his faith tested during the three-day journey to the mountain of Moriah 
+
+_Rated: PG-13_
+
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
 
 # Ticket Prices
