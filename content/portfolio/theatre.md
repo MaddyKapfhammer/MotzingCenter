@@ -8,14 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, March 24 & Saturday, March 25 @ 6:30pm
-
-### Ant-Man and the Wasp: Quantumania
-
-Ant-Man and the Wasp find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that pushes them beyond the limits of what they thought was possible.
-
-_Rated: PG-13_
-
 ## Friday, March 31 & Saturday, April 1 @ 6:30pm
 
 ### His Only Son
@@ -23,6 +15,8 @@ _Rated: PG-13_
 Abraham is commanded by God to sacrifice his son, and finds his faith tested during the three-day journey to the mountain of Moriah 
 
 _Rated: PG-13_
+
+# Coming Soon
 
 ## Friday, April 7 & Saturday, April 8
 
