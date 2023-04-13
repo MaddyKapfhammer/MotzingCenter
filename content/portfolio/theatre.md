@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, April 7 & Saturday, April 8 - 6:30pm
-
-### His Only Son
-
-Abraham is commanded by God to sacrifice his son, and finds his faith tested during the three-day journey to the mountain of Moriah 
-
-_Rated: PG-13_
-
-# Coming Soon
-
 ## Friday, April 14 & Saturday, April 15 - 6:30pm
 
 ## 65
@@ -25,6 +15,8 @@ _Rated: PG-13_
 After a catastrophic crash on an unknown planet, pilot Mills quickly discovers he's actually stranded on Earth -- 65 million years ago. Now, with only one chance at a rescue, Mills and the only other survivor, Koa, must make their way across an unknown terrain riddled with dangerous prehistoric creatures.
 
 _Rated: PG-13_
+
+# Coming Soon
 
 ## Friday, April 21 & Saturday, April 22
 
