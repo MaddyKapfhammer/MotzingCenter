@@ -8,12 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, April 21 & Saturday, April 22
-
-### No Showing 
-
-# Coming Soon
-
 ## Friday, April 28 & Saturday, April 29 - 6:30pm
 
 ### Lucky Louie 
@@ -21,6 +15,40 @@ category: ["Iris Theatre"]
 A retired cop teams up with four ex-convicts and a behavioral science student to solve a fifty year old bank robbery in this new faith filled family comedy from the creators of Getting Grace. 
 
 _Rated: PG_
+
+# Coming Soon
+
+## Friday, May 5 & Saturday, May 6 - 6:30pm
+
+### Lucky Louie 
+
+A retired cop teams up with four ex-convicts and a behavioral science student to solve a fifty year old bank robbery in this new faith filled family comedy from the creators of Getting Grace. 
+
+_Rated: PG_
+
+## Friday, May 12 & Saturday, May 13 - 6:30pm
+
+### The Super Mario Bros. Movie
+
+With help from Princess Peach, Mario gets ready to square off against the all-powerful Bowser to stop his plans from conquering the world.
+
+_Rated: PG_
+
+## Friday, May 19 & Saturday, May 20 - 6:30pm
+
+### The Super Mario Bros. Movie 
+
+With help from Princess Peach, Mario gets ready to square off against the all-powerful Bowser to stop his plans from conquering the world.
+
+_Rated: PG_
+
+## Friday, May 26 & Saturday, May 27 - 6:30pm
+
+### Big George Foreman
+
+From Olympic Gold medalist to World Heavyweight champion, boxer George Foreman leads a remarkable life. He finds his faith, retires and becomes a preacher. When financial hardship hits his family and church, George steps back in the ring and regains the championship at age 45, becoming the oldest heavyweight champion in boxing history.
+
+_Rated: PG-13_
 
 
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
