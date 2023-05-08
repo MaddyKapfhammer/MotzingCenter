@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, May 5 & Saturday, May 6 - 6:30pm
-
-### Lucky Louie 
-
-A retired cop teams up with four ex-convicts and a behavioral science student to solve a fifty year old bank robbery in this new faith filled family comedy from the creators of Getting Grace. 
-
-_Rated: PG_
-
-# Coming Soon
-
 ## Friday, May 12 & Saturday, May 13 - 6:30pm
 
 ### The Super Mario Bros. Movie
@@ -25,6 +15,8 @@ _Rated: PG_
 With help from Princess Peach, Mario gets ready to square off against the all-powerful Bowser to stop his plans from conquering the world.
 
 _Rated: PG_
+
+# Coming Soon
 
 ## Friday, May 19 & Saturday, May 20 - 6:30pm
 
