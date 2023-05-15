@@ -8,7 +8,7 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, May 12 & Saturday, May 13 - 6:30pm
+## Friday, May 19 & Saturday, May 20 - 6:30pm
 
 ### The Super Mario Bros. Movie
 
@@ -17,14 +17,6 @@ With help from Princess Peach, Mario gets ready to square off against the all-po
 _Rated: PG_
 
 # Coming Soon
-
-## Friday, May 19 & Saturday, May 20 - 6:30pm
-
-### The Super Mario Bros. Movie 
-
-With help from Princess Peach, Mario gets ready to square off against the all-powerful Bowser to stop his plans from conquering the world.
-
-_Rated: PG_
 
 ## Friday, May 26 & Saturday, May 27 - 6:30pm
 
