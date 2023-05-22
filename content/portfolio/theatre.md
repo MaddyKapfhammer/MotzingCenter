@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, May 19 & Saturday, May 20 - 6:30pm
-
-### The Super Mario Bros. Movie
-
-With help from Princess Peach, Mario gets ready to square off against the all-powerful Bowser to stop his plans from conquering the world.
-
-_Rated: PG_
-
-# Coming Soon
-
 ## Friday, May 26 & Saturday, May 27 - 6:30pm
 
 ### Big George Foreman
@@ -25,6 +15,8 @@ _Rated: PG_
 From Olympic Gold medalist to World Heavyweight champion, boxer George Foreman leads a remarkable life. He finds his faith, retires and becomes a preacher. When financial hardship hits his family and church, George steps back in the ring and regains the championship at age 45, becoming the oldest heavyweight champion in boxing history.
 
 _Rated: PG-13_
+
+# Coming Soon
 
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
 
