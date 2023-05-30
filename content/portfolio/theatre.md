@@ -8,13 +8,13 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, May 26 & Saturday, May 27 - 6:30pm
+## Friday, June 2 & Saturday, June 3 - 6:30pm
 
-### Big George Foreman
+### Spiderman: Across the Spiderverse
 
-From Olympic Gold medalist to World Heavyweight champion, boxer George Foreman leads a remarkable life. He finds his faith, retires and becomes a preacher. When financial hardship hits his family and church, George steps back in the ring and regains the championship at age 45, becoming the oldest heavyweight champion in boxing history.
+After reuniting with Gwen Stacy, Brooklyn's full-time friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. However, when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders. He must soon redefine what it means to be a hero so he can save the people he loves most. 
 
-_Rated: PG-13_
+_Rated: PG_
 
 # Coming Soon
 
