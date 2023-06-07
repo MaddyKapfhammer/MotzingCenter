@@ -8,7 +8,7 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, June 2 & Saturday, June 3 - 6:30pm
+## Friday, June 9 & Saturday, June 10 - 6:30pm
 
 ### Spiderman: Across the Spiderverse
 
@@ -17,6 +17,22 @@ After reuniting with Gwen Stacy, Brooklyn's full-time friendly neighborhood Spid
 _Rated: PG_
 
 # Coming Soon
+
+## Friday, June 16 & Saturday, June 17 - 6:30pm
+
+### The Flash
+
+Worlds collide when the Flash uses his superpowers to travel back in time to change the events of the past. However, when his attempt to save his family inadvertently alters the future, he becomes trapped in a reality in which General Zod has returned, threatening annihilation. With no other superheroes to turn to, the Flash looks to coax a very different Batman out of retirement and rescue an imprisoned Kryptonian -- albeit not the one he's looking for.
+
+_Rated: PG-13_
+
+## Friday, June 23 & Saturday, June 24 - 6:30pm
+
+### The Flash
+
+Worlds collide when the Flash uses his superpowers to travel back in time to change the events of the past. However, when his attempt to save his family inadvertently alters the future, he becomes trapped in a reality in which General Zod has returned, threatening annihilation. With no other superheroes to turn to, the Flash looks to coax a very different Batman out of retirement and rescue an imprisoned Kryptonian -- albeit not the one he's looking for.
+
+_Rated: PG-13_
 
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
 
