@@ -20,19 +20,19 @@ _Rated: PG_
 
 ## Friday, June 16 & Saturday, June 17 - 6:30pm
 
-### The Flash
+### The Little Mermaid
 
-Worlds collide when the Flash uses his superpowers to travel back in time to change the events of the past. However, when his attempt to save his family inadvertently alters the future, he becomes trapped in a reality in which General Zod has returned, threatening annihilation. With no other superheroes to turn to, the Flash looks to coax a very different Batman out of retirement and rescue an imprisoned Kryptonian -- albeit not the one he's looking for.
+The youngest of King Triton's daughters, Ariel is a beautiful and spirited young mermaid wit a thirst for adventure. Longing to find out more about the world beyond the sea, Ariel visits the surface and falls for the dashing Prince Eric. Following her heart, she makes a deal with the evil sea witch, Ursula, to experience life on land.
 
-_Rated: PG-13_
+_Rated: PG_
 
 ## Friday, June 23 & Saturday, June 24 - 6:30pm
 
-### The Flash
+### The Little Mermaid
 
-Worlds collide when the Flash uses his superpowers to travel back in time to change the events of the past. However, when his attempt to save his family inadvertently alters the future, he becomes trapped in a reality in which General Zod has returned, threatening annihilation. With no other superheroes to turn to, the Flash looks to coax a very different Batman out of retirement and rescue an imprisoned Kryptonian -- albeit not the one he's looking for.
+The youngest of King Triton's daughters, Ariel is a beautiful and spirited young mermaid wit a thirst for adventure. Longing to find out more about the world beyond the sea, Ariel visits the surface and falls for the dashing Prince Eric. Following her heart, she makes a deal with the evil sea witch, Ursula, to experience life on land.
 
-_Rated: PG-13_
+_Rated: PG_
 
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
 
