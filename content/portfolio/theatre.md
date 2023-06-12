@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, June 9 & Saturday, June 10 - 6:30pm
-
-### Spiderman: Across the Spiderverse
-
-After reuniting with Gwen Stacy, Brooklyn's full-time friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. However, when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders. He must soon redefine what it means to be a hero so he can save the people he loves most. 
-
-_Rated: PG_
-
-# Coming Soon
-
 ## Friday, June 16 & Saturday, June 17 - 6:30pm
 
 ### The Little Mermaid
@@ -25,6 +15,8 @@ _Rated: PG_
 The youngest of King Triton's daughters, Ariel is a beautiful and spirited young mermaid wit a thirst for adventure. Longing to find out more about the world beyond the sea, Ariel visits the surface and falls for the dashing Prince Eric. Following her heart, she makes a deal with the evil sea witch, Ursula, to experience life on land.
 
 _Rated: PG_
+
+# Coming Soon
 
 ## Friday, June 23 & Saturday, June 24 - 6:30pm
 
