@@ -8,7 +8,7 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, June 16 & Saturday, June 17 - 6:30pm
+## Friday, June 23 & Saturday, June 24 - 6:30pm
 
 ### The Little Mermaid
 
@@ -17,14 +17,6 @@ The youngest of King Triton's daughters, Ariel is a beautiful and spirited young
 _Rated: PG_
 
 # Coming Soon
-
-## Friday, June 23 & Saturday, June 24 - 6:30pm
-
-### The Little Mermaid
-
-The youngest of King Triton's daughters, Ariel is a beautiful and spirited young mermaid wit a thirst for adventure. Longing to find out more about the world beyond the sea, Ariel visits the surface and falls for the dashing Prince Eric. Following her heart, she makes a deal with the evil sea witch, Ursula, to experience life on land.
-
-_Rated: PG_
 
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
 
