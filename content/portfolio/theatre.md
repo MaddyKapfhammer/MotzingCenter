@@ -8,15 +8,31 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, June 23 & Saturday, June 24 - 6:30pm
+## Friday, June 30th & Saturday, July 1st - 6:00pm
 
-### The Little Mermaid
+### Indiana Jones and the Dial of Destiny - OPENING WEEKEND!
 
-The youngest of King Triton's daughters, Ariel is a beautiful and spirited young mermaid wit a thirst for adventure. Longing to find out more about the world beyond the sea, Ariel visits the surface and falls for the dashing Prince Eric. Following her heart, she makes a deal with the evil sea witch, Ursula, to experience life on land.
+Daredevil archaeologist Indiana Jones races against time to retrieve a legendary dial that can change the course of history. Accompanied by his goddaughter, he soon finds himself squaring off against Jurgen Voller, a former Nazi who works for NASA. 
 
-_Rated: PG_
+_Rated: PG-13_
 
 # Coming Soon
+
+## Friday, July 7th & Saturday, July 8th - 6:00pm
+
+### Indiana Jones and the Dial of Destiny - OPENING WEEKEND!
+
+Daredevil archaeologist Indiana Jones races against time to retrieve a legendary dial that can change the course of history. Accompanied by his goddaughter, he soon finds himself squaring off against Jurgen Voller, a former Nazi who works for NASA. 
+
+_Rated: PG-13_
+
+## Friday, July 14th and Saturday, July 15th
+
+### NO MOVIE SHOWING
+
+## Friday, July 21st and Saturday, July 22nd
+
+### NO MOVIE SHOWING
 
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
 
