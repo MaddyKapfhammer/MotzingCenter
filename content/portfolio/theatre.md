@@ -8,23 +8,15 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, June 30th & Saturday, July 1st - 6:00pm
+## Friday, July 7th & Saturday, July 8th - 6:00pm
 
-### Indiana Jones and the Dial of Destiny - OPENING WEEKEND!
+### Indiana Jones and the Dial of Destiny
 
 Daredevil archaeologist Indiana Jones races against time to retrieve a legendary dial that can change the course of history. Accompanied by his goddaughter, he soon finds himself squaring off against Jurgen Voller, a former Nazi who works for NASA. 
 
 _Rated: PG-13_
 
 # Coming Soon
-
-## Friday, July 7th & Saturday, July 8th - 6:00pm
-
-### Indiana Jones and the Dial of Destiny - OPENING WEEKEND!
-
-Daredevil archaeologist Indiana Jones races against time to retrieve a legendary dial that can change the course of history. Accompanied by his goddaughter, he soon finds himself squaring off against Jurgen Voller, a former Nazi who works for NASA. 
-
-_Rated: PG-13_
 
 ## Friday, July 14th and Saturday, July 15th
 
