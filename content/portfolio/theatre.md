@@ -8,23 +8,31 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, July 7th & Saturday, July 8th - 6:00pm
-
-### Indiana Jones and the Dial of Destiny
-
-Daredevil archaeologist Indiana Jones races against time to retrieve a legendary dial that can change the course of history. Accompanied by his goddaughter, he soon finds himself squaring off against Jurgen Voller, a former Nazi who works for NASA. 
-
-_Rated: PG-13_
-
-# Coming Soon
-
 ## Friday, July 14th and Saturday, July 15th
 
 ### NO MOVIE SHOWING
 
+# Coming Soon
+
 ## Friday, July 21st and Saturday, July 22nd
 
 ### NO MOVIE SHOWING
+
+## Friday, July 28th and Saturday, July 29th - 6:30pm
+
+### Haunted Mansion
+
+A woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.
+
+_Rated: PG-13_
+
+## Friday, August 4th and Saturday, August 5th - 6:30pm
+
+### Haunted Mansion
+
+A woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.
+
+_Rated: PG-13_
 
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
 
