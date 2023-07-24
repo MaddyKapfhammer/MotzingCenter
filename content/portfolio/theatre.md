@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, July 14th and Saturday, July 15th
-
-### NO MOVIE SHOWING
-
-# Coming Soon
-
-## Friday, July 21st and Saturday, July 22nd
-
-### NO MOVIE SHOWING
-
 ## Friday, July 28th and Saturday, July 29th - 6:30pm
 
 ### Haunted Mansion
@@ -25,6 +15,8 @@ category: ["Iris Theatre"]
 A woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.
 
 _Rated: PG-13_
+
+# Coming Soon
 
 ## Friday, August 4th and Saturday, August 5th - 6:30pm
 
