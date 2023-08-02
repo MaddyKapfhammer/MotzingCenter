@@ -8,7 +8,7 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, July 28th and Saturday, July 29th - 6:30pm
+## Friday, August 4th and Saturday, August 5th - 6:30pm
 
 ### Haunted Mansion
 
@@ -18,11 +18,35 @@ _Rated: PG-13_
 
 # Coming Soon
 
-## Friday, August 4th and Saturday, August 5th - 6:30pm
+## Friday, August 11 & Saturday, August 12 - 6:30pm
 
-### Haunted Mansion
+### Transformers: Rise of the Beasts
 
-A woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.
+Optiums Prime and the Autobots take on their biggest challenge yet. When a new threat capable of destroying the entire planet emerges, they must team up with a powerful faction of Transformers known as the Maximals to save Earth. 
+
+_Rated: PG-13_
+
+## Friday, August 18 & Saturday, August 19 - 6:30pm
+
+### Sound of Freedom
+
+After rescuing a boy from ruthless child traffickers, a federal agent learns the boy's sister is still captive and decides to embark on a dangerous mission to save her. With time running out, he quits his job and journeys deep into the Colombian jungle, putting his life on the line to free her from a fate worse than death.
+
+_Rated: PG-13_
+
+## Friday, August 25 & Saturday, August 26 - 6:30pm
+
+### Sound of Freedom
+
+After rescuing a boy from ruthless child traffickers, a federal agent learns the boy's sister is still captive and decides to embark on a dangerous mission to save her. With time running out, he quits his job and journeys deep into the Colombian jungle, putting his life on the line to free her from a fate worse than death.
+
+_Rated: PG-13_
+
+## Friday, September 1 & Saturday September 2 - 6:30pm
+
+### MI7 - Mission: Impossible - Dead Reckoning
+
+Ethan Hunt and the IMF team must track down a terrifying new weapon that threatens all of humanity if it falls into the wrong hands. With control of the future and the fate of the world at stake, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan is forced to consider that nothing can matter more than the mission -- not even the lives of those he cares about most.
 
 _Rated: PG-13_
 
