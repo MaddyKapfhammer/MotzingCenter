@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, August 4th and Saturday, August 5th - 6:30pm
-
-### Haunted Mansion
-
-A woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.
-
-_Rated: PG-13_
-
-# Coming Soon
-
 ## Friday, August 11 & Saturday, August 12 - 6:30pm
 
 ### Transformers: Rise of the Beasts
@@ -25,6 +15,8 @@ _Rated: PG-13_
 Optiums Prime and the Autobots take on their biggest challenge yet. When a new threat capable of destroying the entire planet emerges, they must team up with a powerful faction of Transformers known as the Maximals to save Earth. 
 
 _Rated: PG-13_
+
+# Coming Soon
 
 ## Friday, August 18 & Saturday, August 19 - 6:30pm
 
