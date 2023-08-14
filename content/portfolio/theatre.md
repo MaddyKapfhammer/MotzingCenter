@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, August 11 & Saturday, August 12 - 6:30pm
-
-### Transformers: Rise of the Beasts
-
-Optiums Prime and the Autobots take on their biggest challenge yet. When a new threat capable of destroying the entire planet emerges, they must team up with a powerful faction of Transformers known as the Maximals to save Earth. 
-
-_Rated: PG-13_
-
-# Coming Soon
-
 ## Friday, August 18 & Saturday, August 19 - 6:30pm
 
 ### Sound of Freedom
@@ -25,6 +15,8 @@ _Rated: PG-13_
 After rescuing a boy from ruthless child traffickers, a federal agent learns the boy's sister is still captive and decides to embark on a dangerous mission to save her. With time running out, he quits his job and journeys deep into the Colombian jungle, putting his life on the line to free her from a fate worse than death.
 
 _Rated: PG-13_
+
+# Coming Soon
 
 ## Friday, August 25 & Saturday, August 26 - 6:30pm
 
