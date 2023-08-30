@@ -8,25 +8,13 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, August 18 & Saturday, August 19 - 6:30pm
+## Friday, September 1 & Saturday, September 2 - 6:30pm
 
-### Sound of Freedom
-
-After rescuing a boy from ruthless child traffickers, a federal agent learns the boy's sister is still captive and decides to embark on a dangerous mission to save her. With time running out, he quits his job and journeys deep into the Colombian jungle, putting his life on the line to free her from a fate worse than death.
-
-_Rated: PG-13_
+### No Movie Showing
 
 # Coming Soon
 
-## Friday, August 25 & Saturday, August 26 - 6:30pm
-
-### Sound of Freedom
-
-After rescuing a boy from ruthless child traffickers, a federal agent learns the boy's sister is still captive and decides to embark on a dangerous mission to save her. With time running out, he quits his job and journeys deep into the Colombian jungle, putting his life on the line to free her from a fate worse than death.
-
-_Rated: PG-13_
-
-## Friday, September 1 & Saturday September 2 - 6:30pm
+## Friday, September 8 & Saturday, September 9 - 6:30pm
 
 ### MI7 - Mission: Impossible - Dead Reckoning
 
