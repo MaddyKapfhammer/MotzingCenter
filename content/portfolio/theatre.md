@@ -8,25 +8,40 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, September 8 & Saturday, September 9 - 6:00pm
+## Friday, October 6 & Saturday, October 7 @ 6:30pm
 
-### MI7 - Mission: Impossible - Dead Reckoning
+### PAW Patrol: The Mighty Movie
 
-Ethan Hunt and the IMF team must track down a terrifying new weapon that threatens all of humanity if it falls into the wrong hands. With control of the future and the fate of the world at stake, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan is forced to consider that nothing can matter more than the mission -- not even the lives of those he cares about most.
+The PAW Patrol pups magically gain superpowers after a meteor strikes Adventure City. However, things take a turn for the worse when Humdinger and a mad scientist steal their powers and turn themselves into super villains. As the team springs into action to save the city, Skye soon learns that even the smallest pup can make the biggest difference.
 
-_Rated: PG-13_
+_Rated: PG_
 
 # Coming Soon
 
-## Friday, September 15 - NO MOVIE SHOWING
+## Friday, October 13 & Saturday, October 14 @ 6:30pm
 
-## Saturday, September 16 - Jack Motzing's Day of Grace
+### NO MOVIE SHOWING
 
-### Teenage Mutant Ninja Turtles: Mutant Mayhem - 10:00am, 12:30pm, 3:00pm
-
-After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers. Their new friend, April O'Niel, helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them. 
+The PAW Patrol pups magically gain superpowers after a meteor strikes Adventure City. However, things take a turn for the worse when Humdinger and a mad scientist steal their powers and turn themselves into super villains. As the team springs into action to save the city, Skye soon learns that even the smallest pup can make the biggest difference.
 
 _Rated: PG_
+
+## Friday, October 20 & Saturday, October 21 @ 6:30pm
+
+### My Big Fat Greek Wedding 3
+
+Members of the Portokalos family reunite in Greece for a hilarious and heartwarming trip full of love, twists and turns.
+
+_Rated: PG-13_
+
+## Friday, October 27 & Saturday, October 28 @ 6:30pm
+
+### A Haunting in Venice
+
+Now retired and living in self-imposed exile in the world's most glamorous city, Poirot reluctantly attends a seance at a decaying, haunted palazzo. He soon gets thrust into a sinister world of shadows and secrets when one of the guests is murdered.
+
+_Rated: PG-13_
+
 
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
 
