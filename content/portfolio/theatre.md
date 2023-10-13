@@ -8,39 +8,46 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, October 6 & Saturday, October 7 @ 6:30pm
-
-### PAW Patrol: The Mighty Movie
-
-The PAW Patrol pups magically gain superpowers after a meteor strikes Adventure City. However, things take a turn for the worse when Humdinger and a mad scientist steal their powers and turn themselves into super villains. As the team springs into action to save the city, Skye soon learns that even the smallest pup can make the biggest difference.
-
-_Rated: PG_
-
-# Coming Soon
-
 ## Friday, October 13 & Saturday, October 14 @ 6:30pm
 
 ### NO MOVIE SHOWING
 
-The PAW Patrol pups magically gain superpowers after a meteor strikes Adventure City. However, things take a turn for the worse when Humdinger and a mad scientist steal their powers and turn themselves into super villains. As the team springs into action to save the city, Skye soon learns that even the smallest pup can make the biggest difference.
-
-_Rated: PG_
+# Coming Soon
 
 ## Friday, October 20 & Saturday, October 21 @ 6:30pm
-
-### My Big Fat Greek Wedding 3
-
-Members of the Portokalos family reunite in Greece for a hilarious and heartwarming trip full of love, twists and turns.
-
-_Rated: PG-13_
-
-## Friday, October 27 & Saturday, October 28 @ 6:30pm
 
 ### A Haunting in Venice
 
 Now retired and living in self-imposed exile in the world's most glamorous city, Poirot reluctantly attends a seance at a decaying, haunted palazzo. He soon gets thrust into a sinister world of shadows and secrets when one of the guests is murdered.
 
 _Rated: PG-13_
+
+## Friday, October 27 & Saturday, October 28 @ 6:30pm
+
+### The Nightmare Before Christmas
+
+The film follows the misadventures of Jack Skellington, Halloweentown's beloved pumpkin king, who has become bored with the same annual routine of frightening people in the "real world." When Jack accidentally stumbles on Christmastown, all bright colors and warm spirits, he gets a new lease on life -- he plots to bring Christmas under his control by kidnapping Santa Claus and taking over hte role. But Jack soon discovers even the best-laid plans of mice and skeleton men can go seriously awry.
+
+_Rated: PG_
+
+# Friday, November 3 & Saturday, November 4 @ 6:30pm
+
+## I Can
+
+Born with one fully developed arm, a girl defies the odds to become a gifted softball player, while her father finds genuine forgiveness. 
+
+_Rated: PG_
+
+# Friday, November 10 & Saturday, November 11 @ 6:30pm
+### My Big Fat Greek Wedding 3
+
+Members of the Portokalos family reunite in Greece for a hilarious and heartwarming trip full of love, twists and turns.
+
+_Rated: PG-13_
+
+
+
+
 
 
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
