@@ -2,7 +2,7 @@ enable : true
 heading : "HOURS"
 counter_item: 
 
-  - title: "Monday thru Thursday: 7:00am-11:00am & 4:00pm-7:00pm"
+  - title: "Monday thru Thursday: 7:00am - 5:00pm"
 
   - title: "Friday: 7:00am-11:00am & 5:00pm-8:30pm Saturday: 8:00am-12:00pm & 5:00pm-8:30pm"
 
