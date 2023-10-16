@@ -8,12 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, October 13 & Saturday, October 14 @ 6:30pm
-
-### NO MOVIE SHOWING
-
-# Coming Soon
-
 ## Friday, October 20 & Saturday, October 21 @ 6:30pm
 
 ### A Haunting in Venice
@@ -21,6 +15,8 @@ category: ["Iris Theatre"]
 Now retired and living in self-imposed exile in the world's most glamorous city, Poirot reluctantly attends a seance at a decaying, haunted palazzo. He soon gets thrust into a sinister world of shadows and secrets when one of the guests is murdered.
 
 _Rated: PG-13_
+
+# Coming Soon
 
 ## Friday, October 27 & Saturday, October 28 @ 6:30pm
 
