@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, October 20 & Saturday, October 21 @ 6:30pm
-
-### A Haunting in Venice
-
-Now retired and living in self-imposed exile in the world's most glamorous city, Poirot reluctantly attends a seance at a decaying, haunted palazzo. He soon gets thrust into a sinister world of shadows and secrets when one of the guests is murdered.
-
-_Rated: PG-13_
-
-# Coming Soon
-
 ## Friday, October 27 & Saturday, October 28 @ 6:30pm
 
 ### The Nightmare Before Christmas
@@ -25,6 +15,8 @@ _Rated: PG-13_
 The film follows the misadventures of Jack Skellington, Halloweentown's beloved pumpkin king, who has become bored with the same annual routine of frightening people in the "real world." When Jack accidentally stumbles on Christmastown, all bright colors and warm spirits, he gets a new lease on life -- he plots to bring Christmas under his control by kidnapping Santa Claus and taking over hte role. But Jack soon discovers even the best-laid plans of mice and skeleton men can go seriously awry.
 
 _Rated: PG_
+
+# Coming Soon
 
 # Friday, November 3 & Saturday, November 4 @ 6:30pm
 
