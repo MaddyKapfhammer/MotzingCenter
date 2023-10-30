@@ -8,35 +8,23 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-## Friday, October 27 & Saturday, October 28 @ 6:30pm
+# Friday, November 3 & Saturday, November 4 @ 6:30pm
 
-### The Nightmare Before Christmas
+## Inspector Sun and the Curse of the Black Widow
 
-The film follows the misadventures of Jack Skellington, Halloweentown's beloved pumpkin king, who has become bored with the same annual routine of frightening people in the "real world." When Jack accidentally stumbles on Christmastown, all bright colors and warm spirits, he gets a new lease on life -- he plots to bring Christmas under his control by kidnapping Santa Claus and taking over hte role. But Jack soon discovers even the best-laid plans of mice and skeleton men can go seriously awry.
+Fired from his detective job after a mission goes awry, Inspector Sun boards a seemingly normal plane for a much needed vacation. However, when Dr. Spindlethorp receives a threat on his life, Sun is back on the case, trapped in a web of lies.
 
 _Rated: PG_
 
 # Coming Soon
 
-# Friday, November 3 & Saturday, November 4 @ 6:30pm
-
-## I Can
-
-Born with one fully developed arm, a girl defies the odds to become a gifted softball player, while her father finds genuine forgiveness. 
-
-_Rated: PG_
-
 # Friday, November 10 & Saturday, November 11 @ 6:30pm
-### My Big Fat Greek Wedding 3
+
+## My Big Fat Greek Wedding 3
 
 Members of the Portokalos family reunite in Greece for a hilarious and heartwarming trip full of love, twists and turns.
 
 _Rated: PG-13_
-
-
-
-
-
 
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
 
