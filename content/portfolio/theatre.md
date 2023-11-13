@@ -8,23 +8,41 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-# Friday, November 3 & Saturday, November 4 @ 6:30pm
+# Friday, November 17 & Saturday, November 18 - No Movie Showing
 
-## Inspector Sun and the Curse of the Black Widow
+# Friday, November 24 & Saturday, November 25 @ 6:30pm
 
-Fired from his detective job after a mission goes awry, Inspector Sun boards a seemingly normal plane for a much needed vacation. However, when Dr. Spindlethorp receives a threat on his life, Sun is back on the case, trapped in a web of lies.
+## Trolls: Band Together
+
+Poppy discovers that Branch and his four brothers were once part of her favorite boy band. When one of his siblings, Floyd, gets kidnapped by a pair of nefarious villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop culture obscurity.
 
 _Rated: PG_
 
 # Coming Soon
 
-# Friday, November 10 & Saturday, November 11 @ 6:30pm
+# Friday, December 1 & Saturday, December 2 @ 6:30pm
 
-## My Big Fat Greek Wedding 3
+## Trolls: Band Together
 
-Members of the Portokalos family reunite in Greece for a hilarious and heartwarming trip full of love, twists and turns.
+Poppy discovers that Branch and his four brothers were once part of her favorite boy band. When one of his siblings, Floyd, gets kidnapped by a pair of nefarious villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop culture obscurity.
 
-_Rated: PG-13_
+_Rated: PG_
+
+# Friday, December 8 & Saturday, December 9 @ 6:30pm
+
+## Journey to Bethlehem
+
+Classic Christmas melodies and modern pop songs tell the story of a young woman with an unimaginable responsibility, a young man torn between love and honour, and a jealous king.
+
+_Rated: PG_
+
+# Friday, December 15 & Saturday, December 16 @ 6:30pm
+
+## Journey to Bethlehem
+
+Classic Christmas melodies and modern pop songs tell the story of a young woman with an unimaginable responsibility, a young man torn between love and honour, and a jealous king.
+
+_Rated: PG_
 
 **Please check out our [Facebook Page](https://www.facebook.com/Themotzingcenter/) for more updates regarding our movie schedule**
 
