@@ -8,8 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-# Friday, November 17 & Saturday, November 18 - No Movie Showing
-
 # Friday, November 24 & Saturday, November 25 @ 6:30pm
 
 ## Trolls: Band Together
