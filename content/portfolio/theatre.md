@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-# Friday, December 1 & Saturday, December 2 @ 6:30pm
-
-## Trolls: Band Together
-
-Poppy discovers that Branch and his four brothers were once part of her favorite boy band. When one of his siblings, Floyd, gets kidnapped by a pair of nefarious villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop culture obscurity.
-
-_Rated: PG_
-
-# Coming Soon
-
 # Friday, December 8 & Saturday, December 9 @ 6:30pm
 
 ## Journey to Bethlehem
@@ -25,6 +15,8 @@ _Rated: PG_
 Classic Christmas melodies and modern pop songs tell the story of a young woman with an unimaginable responsibility, a young man torn between love and honour, and a jealous king.
 
 _Rated: PG_
+
+# Coming Soon
 
 # Friday, December 15 & Saturday, December 16 @ 6:30pm
 
