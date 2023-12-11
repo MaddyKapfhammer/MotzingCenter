@@ -8,7 +8,7 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-# Friday, December 8 & Saturday, December 9 @ 6:30pm
+# Friday, December 15 & Saturday, December 16 @ 6:30pm
 
 ## Journey to Bethlehem
 
@@ -18,11 +18,39 @@ _Rated: PG_
 
 # Coming Soon
 
-# Friday, December 15 & Saturday, December 16 @ 6:30pm
+# Friday, December 22 & Saturday, December 23 - CLOSED
 
-## Journey to Bethlehem
+# Friday, December 29 & Saturday, December 30 - CLOSED
 
-Classic Christmas melodies and modern pop songs tell the story of a young woman with an unimaginable responsibility, a young man torn between love and honour, and a jealous king.
+# Friday, January 5 & Saturday, January 6 @ 6:30pm
+
+## Wonka
+
+Armed with nothing but a hatful of dreams, young chocolatier Willy Wonka manages to change the world, one delectable bite at a time.
+
+_Rated: PG-13_
+
+# Friday, January 12 & Saturday, January 13 @ 6:30pm
+
+## Wonka
+
+Armed with nothing but a hatful of dreams, young chocolatier Willy Wonka manages to change the world, one delectable bite at a time.
+
+_Rated: PG-13_
+
+# Friday, January 19 & Saturday, January 20 @ 6:30pm
+
+## The Shift
+
+After a tense encounter with a mysterious stranger who has otherworldly powers, a man gets banished to a parallel Earth where he fights to get back to the woman he loves.
+
+_Rated: PG_
+
+# Friday, January 26 & Saturday, January 27 @ 6:30pm
+
+## The Shift
+
+After a tense encounter with a mysterious stranger who has otherworldly powers, a man gets banished to a parallel Earth where he fights to get back to the woman he loves.
 
 _Rated: PG_
 
