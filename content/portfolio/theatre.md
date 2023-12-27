@@ -8,19 +8,9 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-# Friday, December 15 & Saturday, December 16 @ 6:30pm
-
-## Journey to Bethlehem
-
-Classic Christmas melodies and modern pop songs tell the story of a young woman with an unimaginable responsibility, a young man torn between love and honour, and a jealous king.
-
-_Rated: PG_
+# Friday, December 29 & Saturday, December 30 - CLOSED
 
 # Coming Soon
-
-# Friday, December 22 & Saturday, December 23 - CLOSED
-
-# Friday, December 29 & Saturday, December 30 - CLOSED
 
 # Friday, January 5 & Saturday, January 6 @ 6:30pm
 
