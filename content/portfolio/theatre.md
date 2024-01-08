@@ -8,7 +8,7 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-# Friday, January 5 & Saturday, January 6 @ 6:30pm
+# Friday, January 12 & Saturday, January 13 @ 6:30pm
 
 ## Wonka
 
@@ -17,14 +17,6 @@ Armed with nothing but a hatful of dreams, young chocolatier Willy Wonka manages
 _Rated: PG-13_
 
 # Coming Soon
-
-# Friday, January 12 & Saturday, January 13 @ 6:30pm
-
-## Wonka
-
-Armed with nothing but a hatful of dreams, young chocolatier Willy Wonka manages to change the world, one delectable bite at a time.
-
-_Rated: PG-13_
 
 # Friday, January 19 & Saturday, January 20 @ 6:30pm
 
