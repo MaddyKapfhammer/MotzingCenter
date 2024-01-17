@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-# Friday, January 12 & Saturday, January 13 @ 6:30pm
-
-## Wonka
-
-Armed with nothing but a hatful of dreams, young chocolatier Willy Wonka manages to change the world, one delectable bite at a time.
-
-_Rated: PG-13_
-
-# Coming Soon
-
 # Friday, January 19 & Saturday, January 20 @ 6:30pm
 
 ## The Shift
@@ -25,6 +15,8 @@ _Rated: PG-13_
 After a tense encounter with a mysterious stranger who has otherworldly powers, a man gets banished to a parallel Earth where he fights to get back to the woman he loves.
 
 _Rated: PG_
+
+# Coming Soon
 
 # Friday, January 26 & Saturday, January 27 @ 6:30pm
 
