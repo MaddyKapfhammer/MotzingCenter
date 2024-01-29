@@ -8,16 +8,6 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-# Friday, January 26 & Saturday, January 27 @ 6:30pm
-
-## The Shift
-
-After a tense encounter with a mysterious stranger who has otherworldly powers, a man gets banished to a parallel Earth where he fights to get back to the woman he loves.
-
-_Rated: PG_
-
-# Coming Soon
-
 # Friday, February 2 & Saturday, January 3 @ 6:30pm
 
 ## The Marvels
@@ -25,6 +15,8 @@ _Rated: PG_
 Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. However, unintended consequences see her shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with two other superheroes to form the Marvels.
 
 _Rated: PG-13_
+
+# Coming Soon
 
 # Friday, February 9 & Saturday, February 10 @ 6:30pm
 
