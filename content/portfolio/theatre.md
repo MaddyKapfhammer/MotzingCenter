@@ -8,7 +8,7 @@ category: ["Iris Theatre"]
 
 # Now Showing
 
-# Friday, February 2 & Saturday, January 3 @ 6:30pm
+# Friday, February 2 & Saturday, February 3 @ 6:30pm
 
 ## The Marvels
 
